@@ -1,4 +1,4 @@
-# [<img src="docs/assets/logo.png"> React Portfolio](https://ryanbalieiro.github.io/react-portfolio-template/) by Ryan Balieiro
+# React Portfolio Template by Ryan Balieiro
 
 A sleek, futuristic portfolio template for developers – built with **React** and **Bootstrap 5**.
 
@@ -111,3 +111,26 @@ Additional frameworks and plugins used include:
 Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-agency/blob/master/LICENSE) license, providing complete freedom for utilization. Feel free to enhance and adapt it to suit your needs.
 
 Oh... and if you like this template, don't forget to **give it a ⭐** :)
+
+---
+
+## Problema de despliegue en Vercel y solución
+
+### Problema
+Al desplegar la aplicación en Vercel, se producían errores 404 al cargar archivos estáticos (JS, CSS, imágenes) y archivos JSON, aunque en desarrollo local funcionaba correctamente.
+
+### Causa
+- La configuración `base` en `vite.config.js` estaba establecida en un subdirectorio (`/react-portfolio-template/`), lo que causaba que Vercel buscara recursos en rutas incorrectas.
+- La función `resolvePath` en `src/hooks/utils/_file-utils.js` no manejaba correctamente rutas absolutas y relativas, generando URLs inválidas.
+- `BASE_URL` no tenía un valor por defecto, causando rutas erróneas en entornos sin configuración.
+- En `src/components/Portfolio.jsx` había una recarga infinita que podía bloquear la carga correcta.
+
+### Solución
+- Se cambió `base` a `'/'` en `vite.config.js`.
+- Se ajustó la función `resolvePath` para manejar rutas absolutas y relativas correctamente.
+- Se forzó un valor por defecto `'/'` para `BASE_URL`.
+- Se corrigió la función `loadJSON` para usar la ruta pasada como parámetro.
+- Se comentó la recarga infinita en `Portfolio.jsx`.
+- Se verificó que los archivos estáticos se copien correctamente durante la compilación.
+
+Con estas correcciones, la aplicación funciona correctamente tanto en local como en Vercel.
