@@ -29,7 +29,8 @@
                 "Desarrollador Frontend",
                 "Ingeniero DevOps",
                 "Diseñador UX"
-            ]
+            ],
+            "name_pronunciation_audio_url": "audio/para_mi_portfolio.wav"
         },
         "fr": {
             "status_message_available_for_freelance": "Disponible pour freelance !",
