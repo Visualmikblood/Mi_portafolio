@@ -14,10 +14,10 @@ function Portfolio() {
     const location = useLocation()
     const navigation = useNavigation()
 
-    if(!data || !language || !location || !navigation) {
-        window.location.reload()
-        return
-    }
+    // if(!data || !language || !location || !navigation) {
+    //     window.location.reload()
+    //     return
+    // }
 
     const profile = data.getProfile()
     const settings = data.getSettings()
