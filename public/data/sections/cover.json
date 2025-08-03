@@ -84,7 +84,7 @@
                             "text": "<p>I’m a {{PHP}} developer with [[over a decade]] of experience, specializing in backend development with some frontend work as well. I also have hands-on experience with C++, C#, Go, and Python in production environments.</p><p>This diverse background gives me the flexibility to adapt to a wide range of project needs, whether it's building scalable APIs, optimizing system performance, or contributing to full-stack solutions.</p><p>I look forward to collaborating [[with you!]]</p>"
                         },
                         "es": {
-                            "text": "<p>Soy un desarrollador de {{PHP}} con [[más de una década]] de experiencia, especializado en desarrollo backend y con algo de experiencia en frontend. También tengo experiencia práctica en entornos de producción con C++, C#, Go y Python.</p><p>Este variado historial me permite adaptarme a una amplia gama de necesidades de proyectos, ya sea construyendo APIs escalables, optimizando el rendimiento de sistemas o contribuyendo a soluciones full-stack.</p><p>¡Espero con interés colaborar [[contigo!]]</p>"
+                            "text": "<p>Soy un desarrollador {{front-end}} con una sólida base en [[HTML, CSS, JavaScript y React]]. Combino mis habilidades técnicas con mi experiencia en [[Photoshop, Premiere Pro y After Effects]] para crear experiencias web funcionales y visualmente atractivas.</p><p>Mi pasión por el diseño y la producción visual me permite ir más allá del código. Con una perspectiva que abarca desde la estética hasta la optimización técnica, me enfoco en crear soluciones digitales que no solo cumplan con los requisitos funcionales, sino que también ofrezcan una interfaz de usuario pulida y una experiencia memorable.</p><p>¡Espero con interés colaborar [[contigo!]]</p>"
                         },
                         "fr": {
                             "text": "<p>Je suis développeur {{PHP}} avec [[plus d'une décennie]] d'expérience, spécialisé dans le développement backend avec un peu de travail en frontend également. J'ai aussi de l'expérience en production avec les technologies C++, C#, Go et Python.</p><p>Ce parcours diversifié me permet de m'adapter à une large gamme de besoins de projets, qu'il s'agisse de créer des API évolutives, d'améliorer les performances système ou de participer à des solutions full-stack.</p><p>Je suis impatient de collaborer [[avec vous !]]</p>"
@@ -113,7 +113,7 @@
             "items": [
                 {
                     "id": 1,
-                    "label": "Anita Bath",
+                    "label": "El Mago Joquer",
                     "link": {"href": "https://linkedin.com", "tooltipString": "open_website"},
                     "img": "images/pictures/testimonial-person-female-1.png",
                     "faIcon": "",
@@ -124,8 +124,8 @@
                             "text": "Working with Mark was a truly [[transformative experience]]. His outstanding programming skills and collaborative spirit not only elevated the quality of our project but also brought a renewed sense of motivation and purpose to us."
                         },
                         "es": {
-                            "title": "CEO en [[SalesForce]]",
-                            "text": "Trabajar con Mark fue una [[experiencia transformadora]]. Su gran habilidad para programar y su espíritu colaborativo mejoraron el proyecto y nos devolvieron la motivación y el propósito."
+                            "title": "[[Mago]] professional",
+                            "text": "Trabajar con [[Miguel]] fue una experiencia mágica y verdaderamente transformadora. Su gran habilidad con el código y su visión colaborativa hicieron que mi proyecto web fuera espectacular, dándole una nueva vida a mi marca y devolviéndome la motivación y el propósito."
                         },
                         "fr": {
                             "title": "PDG de [[SalesForce]]",
@@ -139,7 +139,7 @@
                 },
                 {
                     "id": 2,
-                    "label": "Lou Natic",
+                    "label": "Luis Sanchez",
                     "link": {"href": "https://github.com", "tooltipString": "open_website"},
                     "img": "images/pictures/testimonial-person-male-1.png",
                     "faIcon": "",
@@ -150,8 +150,8 @@
                             "text": "Having Mark on our team was an invaluable asset. His [[deep programming insights and mentorship]] not only elevated our projects but also empowered us to tackle every challenge with confidence and creativity."
                         },
                         "es": {
-                            "title": "Desarrollador Principal en [[GitHub]]",
-                            "text": "Tener a Mark fue un recurso invaluable. Sus [[profundos conocimientos y mentoría]] mejoraron nuestros proyectos y nos dieron confianza para afrontar cualquier desafío con creatividad."
+                            "title": "[[Maestro]] de artes marciales",
+                            "text": "Trabajar con Miguel en la web para mi dojo fue una [[experiencia de maestría]]. Su disciplina y conocimiento técnico construyeron una web impecable que refleja la seriedad de mi escuela, dándome una herramienta poderosa para mi propósito."
                         },
                         "fr": {
                             "title": "Développeur Principal chez [[GitHub]]",
@@ -165,7 +165,7 @@
                 },
                 {
                     "id": 3,
-                    "label": "Paige Turner",
+                    "label": "Victor",
                     "link": {"href": "", "tooltipString": ""},
                     "img": "images/pictures/testimonial-person-female-2.png",
                     "faIcon": "",
@@ -176,8 +176,8 @@
                             "text": "Collaborating with Mark was a true [[game changer]] for our entire development process. His [[deep technical expertise]], creative problem-solving, and proactive mindset were absolutely invaluable."
                         },
                         "es": {
-                            "title": "Directora General en [[Dingga]]",
-                            "text": "Colaborar con Mark fue un verdadero [[punto de inflexión]]. Su [[gran experiencia técnica]], creatividad y mentalidad proactiva fueron absolutamente invaluables para nuestro equipo."
+                            "title": "[[Dueño]] de Pub Chicago",
+                            "text": "Trabajar con Miguel para mi pub fue genial. Creó una web que no solo es funcional, sino que también captura a la perfección el ambiente del lugar, [[atrayendo a más gente a visitarnos..]]"
                         },
                         "fr": {
                             "title": "Directrice Générale chez [[Dingga]]",
@@ -244,8 +244,8 @@
                             "text": "Learning to use AI tools to enhance my videos."
                         },
                         "es": {
-                            "title": "Edición de video con {{AI}}",
-                            "text": "Aprendiendo a usar herramientas de IA para mejorar mis videos."
+                            "title": "Edición de video con {{Premier pro}}",
+                            "text": "Aprendiendo a usar preimer pro como hobby."
                         },
                         "fr": {
                             "title": "Édition vidéo avec {{IA}}",
@@ -270,7 +270,7 @@
                         },
                         "es": {
                             "title": "{{Arte}} y Ilustración",
-                            "text": "Practicando arte digital y explorando nuevos estilos."
+                            "text": "Practicando arte digital"
                         },
                         "fr": {
                             "title": "{{Arts}} & Illustration",
@@ -294,8 +294,8 @@
                             "text": "Learning the basics of stocks and personal finance."
                         },
                         "es": {
-                            "title": "{{Inversión}} y Finanzas",
-                            "text": "Aprendiendo los conceptos básicos de acciones y finanzas personales."
+                            "title": "Desarrollo {{backend}}",
+                            "text": "Aprendiendo backend para ampliar mis conocimientos."
                         },
                         "fr": {
                             "title": "{{Investissement}} & Finance",
@@ -319,8 +319,8 @@
                             "text": "Studying user experience principles."
                         },
                         "es": {
-                            "title": "Diseño {{UX}}",
-                            "text": "Estudiando los principios de la experiencia del usuario."
+                            "title": "Diseño {{3D}}",
+                            "text": "Estudiando los principios del modelado y diseño 3D"
                         },
                         "fr": {
                             "title": "Conception {{UX}}",
@@ -370,8 +370,8 @@
                             "text": "Exploring different genres and improving my skills."
                         },
                         "es": {
-                            "title": "Tocar {{batería}}",
-                            "text": "Explorando diferentes géneros y mejorando mis habilidades."
+                            "title": " Edicion de {{Música}}",
+                            "text": "Aprendiendo a usar y editar en FL Studio."
                         },
                         "fr": {
                             "title": "Jouer de la {{batterie}}",
