@@ -108,7 +108,7 @@
                 {
                     "id": 2,
                     "categoryId": "category_apps",
-                    "img": "images/pictures/portfolio-project-logo-7.png",
+                    "img": "images/pictures/iconos_mios_para_portfolio/lista.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
                     "preview": {
@@ -117,25 +117,20 @@
                             {"href": "https://google.com", "tooltipString": "see_on_google_play", "faIcon": "fa-brands fa-google-play"}
                         ],
                         "screenshots": [
-                            "images/pictures/screenshot-demo-portrait-1.png",
-                            "images/pictures/screenshot-demo-portrait-2.png",
-                            "images/pictures/screenshot-demo-portrait-3.png",
-                            "images/pictures/screenshot-demo-portrait-4.png",
-                            "images/pictures/screenshot-demo-portrait-5.png",
-                            "images/pictures/screenshot-demo-portrait-6.png"
+                            "images/pictures/portfolio_img_mias/lista_de_tareas.png"
                         ],
                         "screenshotsAspectRatio": "9:16",
                         "youtubeVideo": "https://www.youtube.com/watch?v=TfgBHC5gvTI"
                     },
                     "locales": {
                         "en": {
-                            "title": "MailM8",
+                            "title": "Lista de atreas",
                             "text": "A cross-platform email client built with <b>Flutter</b>, providing efficient communication with an intuitive UI for <b>managing emails</b>.",
                             "tags": ["Flutter", "E-mail", "Communication"]
                         },
                         "es": {
-                            "text": "Un cliente de correo electrónico multiplataforma construido con <b>Flutter</b>, que ofrece comunicación eficiente y una interfaz intuitiva para la <b>gestión de correos electrónicos</b>.",
-                            "tags": ["Flutter", "Correo", "Comunicación"]
+                            "text": "Aplicación web creada con React para gestionar tareas de forma sencilla e intuitiva. Permite añadir, editar, buscar y eliminar tareas en una interfaz limpia y responsiva.",
+                            "tags": ["React", "Lista de tareas", "Gestión de tareas"]
                         },
                         "fr": {
                             "text": "Un client de messagerie multiplateforme construit avec <b>Flutter</b>, offrant une communication efficace et une interface intuitive pour <b>gérer les e-mails</b>.",
