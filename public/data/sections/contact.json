@@ -84,7 +84,7 @@
                     "id": 1,
                     "faIcon": "fa-solid fa-phone",
                     "faIconColors": { "bg": "", "fill": "" },
-                    "label": "+1 (123) 456-7890",
+                    "label": "+34 644-724-795",
                     "link": {"href": "tel:11234567890", "tooltipString": "call_me"},
                     "locales": {
                         "en": {"title": "Phone"},
@@ -97,8 +97,8 @@
                     "id":2,
                     "faIcon": "fa-solid fa-envelope",
                     "faIconColors": { "bg": "", "fill": "" },
-                    "label": "mark.choi@email.com",
-                    "link": {"href": "mailto:mark.choi@email.com", "tooltipString": "email_me"},
+                    "label": "1bcmigueliglesias@gmail.com",
+                    "link": {"href": "mailto:1bcmigueliglesias@gmail.com", "tooltipString": "email_me"},
                     "locales": {
                         "en": {"title": "E-mail"},
                         "ko": {"title": "이메일"}
@@ -108,8 +108,8 @@
                     "id": 3,
                     "faIcon": "fa-brands fa-linkedin",
                     "faIconColors": { "bg": "", "fill": "" },
-                    "label": "@markchoi",
-                    "link": {"href": "https://linkedin.com/in/", "tooltipString": "open_website"},
+                    "label": "@Visualmikblood",
+                    "link": {"href": "https://github.com/Visualmikblood", "tooltipString": "open_website"},
                     "locales": {
                         "en": {"title": "LinkedIn"},
                         "ko": {"title": "링크드인"}
@@ -119,8 +119,8 @@
                     "id": 4,
                     "faIcon": "fa-brands fa-facebook",
                     "faIconColors": { "bg": "", "fill": "" },
-                    "label": "Mark Choi",
-                    "link": {"href": "https://facebook.com/profiles/mark.choi.855/default", "tooltipString": "open_website"},
+                    "label": "Miguel Ángel Iglesias De La Flor",
+                    "link": {"href": "https://www.facebook.com/profile.php?id=100008429444880", "tooltipString": "open_website"},
                     "locales": {
                         "en": {"title": "Facebook"},
                         "ko": {"title": "페이스북"}
@@ -130,8 +130,8 @@
                     "id": 5,
                     "faIcon": "fa-brands fa-instagram",
                     "faIconColors": { "bg": "", "fill": "" },
-                    "label": "@codingmark",
-                    "link": {"href": "https://instagram.com/", "tooltipString": "open_website"},
+                    "label": "@miguelatasiglesias",
+                    "link": {"href": "https://www.instagram.com/miguelatasiglesias/", "tooltipString": "open_website"},
                     "locales": {
                         "en": {"title": "Instagram"},
                         "ko": {"title": "인스타그램"}
@@ -141,7 +141,7 @@
                     "id": 6,
                     "faIcon": "fa-brands fa-tiktok",
                     "faIconColors": { "bg": "", "fill": "" },
-                    "label": "@markchoi",
+                    "label": "@miguelatasiglesias",
                     "link": {"href": "https://tiktok.com/@markchoi", "tooltipString": "open_website"},
                     "locales": {
                         "en": { "title": "TikTok" },
