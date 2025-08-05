@@ -113,13 +113,13 @@
                     "faIconColors": {"bg": "", "fill": ""},
                     "preview": {
                         "links": [
-                            {"href": "https://apple.com", "tooltipString": "see_on_app_store", "faIcon": "fa-brands fa-apple"},
+                            {"href": "https://github.com/Visualmikblood/lista_de_tareas_actualizada.git", "tooltipString": "see_on_app_store", "faIcon": "fa-brands fa-github"},
                             {"href": "https://google.com", "tooltipString": "see_on_google_play", "faIcon": "fa-brands fa-google-play"}
                         ],
                         "screenshots": [
                             "images/pictures/portfolio_img_mias/lista_de_tareas.png"
                         ],
-                        "screenshotsAspectRatio": "9:16",
+                        "screenshotsAspectRatio": "16:9",
                         "youtubeVideo": "https://www.youtube.com/watch?v=TfgBHC5gvTI"
                     },
                     "locales": {
@@ -170,8 +170,9 @@
                             "tags": ["React", "Organization", "Notes"]
                         },
                         "es": {
-                            "text": "Una app de productividad con todas las funciones, desarrollada con <b>React Native</b>, que permite a los usuarios organizar tareas, notas y proyectos en varios dispositivos. Ofrece <b>sincronización en la nube</b>, interfaz intuitiva y características de colaboración.",
-                            "tags": ["React", "Organización", "Notas"]
+                            "title": "Chat react con vite",
+                            "text": "Chat en tiempo real creado con React y Vite, con interfaz minimalista. Permite enviar mensajes, mostrar el nombre de usuario y el estado de conexión usando WebSockets.",
+                            "tags": ["Chat en tiempo real", "Mensajería instantánea", "Aplicación interactiva"]
                         },
                         "fr": {
                             "text": "Une application de productivité complète développée avec <b>React Native</b>, permettant aux utilisateurs d'organiser tâches, notes et projets sur plusieurs appareils. Elle offre <b>synchronisation cloud</b>, interface intuitive et fonctionnalités de collaboration.",
