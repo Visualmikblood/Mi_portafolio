@@ -1,5 +1,5 @@
 {
-    "name": "Mark Choi",
+    "name": "Miguel Iglesias",
 
     "profilePictureUrl": "images/pictures/instagram_miguel_photoshop.jpg",
     "resumePdfUrl": "",
@@ -30,7 +30,8 @@
                 "Desarrollador Frontend",
                 "Diseñador gráfico"
             ],
-            "name_pronunciation_audio_url": "audio/para_mi_portfolio.wav"
+            "name_pronunciation_audio_url": "audio/audio_perfil_miguel_portfolio.mp3",
+            "name_pronunciation_ipa": "/miguel iglesias/"
         },
         "fr": {
             "status_message_available_for_freelance": "Disponible pour freelance !",
