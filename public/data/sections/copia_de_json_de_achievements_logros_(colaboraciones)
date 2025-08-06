@@ -151,7 +151,7 @@
             "component": "ArticleThread",
             "locales": {
                 "en": { "title": "Awards" },
-                "es": { "title": "Colaboraciones" },
+                "es": { "title": "Premios" },
                 "fr": { "title": "Récompenses" },
                 "ko": { "title": "수상 내역" }
             },
@@ -163,7 +163,7 @@
             "items": [
                 {
                     "id": 1,
-                    "date": {"year": 2024, "month": 9},
+                    "date": {"year": 2019, "month": 9},
                     "preview": {
                         "links": [
                             {"href": "https://mag.wcoomd.org/uploads/2018/05/blank.pdf", "tooltipString": "read", "faIcon": "fa-solid fa-file-pdf"}
@@ -181,11 +181,11 @@
                             "text": "Awarded for outstanding performance in optimizing backend systems during my final year project where I improved the efficiency of data processing by 30%. I have also received a certificate of recognition for this achievement."
                         },
                         "es": {
-                            "title": "{{Colaboracion web sobre}} – Trading",
-                            "province": "España",
-                            "country": "Portugal",
-                            "institution": "React",
-                            "text": "Junto a un colega programador de React, desarrollé una plataforma web para traders centrada en el análisis de datos financieros y la visualización de mercado en tiempo real. El objetivo principal fue crear una herramienta intuitiva que permitiera a los usuarios seguir sus activos y tomar decisiones más informadas."
+                            "title": "{{Mejor Proyecto de Fin de Carrera}} – Optimización Backend",
+                            "province": "Massachusetts",
+                            "country": "EE.UU.",
+                            "institution": "MIT",
+                            "text": "Premiado por un rendimiento excepcional en la optimización de sistemas backend durante mi proyecto de fin de carrera, donde mejoré la eficiencia del procesamiento de datos en un 30%. También he recibido un certificado de reconocimiento por este logro."
                         },
                         "fr": {
                             "title": "{{Meilleur Projet de Fin d'Études}} – Optimisation Backend",
@@ -206,7 +206,7 @@
 
                 {
                     "id": 2,
-                    "date": {"year": 2025, "month": 5},
+                    "date": {"year": 2020, "month": 5},
                     "preview": {
                         "links": [
                             {"href": "https://github.com/ryanbalieiro/react-portfolio-template", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"},
@@ -230,15 +230,15 @@
                             ]
                         },
                         "es": {
-                            "title": "{{Colaboración web Wordpress sobre}} – Una empresa de viajes",
-                            "province": "España",
-                            "country": "Portugal",
-                            "institution": "Wordpress",
-                            "text": "Junto a un colega desarrollador de React, colaboré en la creación de una web de viajes especializada en vuelos y aerolíneas. El objetivo del proyecto fue ofrecer a los usuarios una plataforma visualmente atractiva e interactiva con información relevante sobre destinos, rutas y ofertas. Mis contribuciones incluyeron: ",
+                            "title": "{{Contribuyente Destacado}} – Proyecto de Código Abierto de la Fundación Linux",
+                            "province": "",
+                            "country": "",
+                            "institution": "Fundación Linux",
+                            "text": "Reconocido como un contribuyente destacado por mis contribuciones significativas a un proyecto de código abierto bajo la Fundación Linux, donde implementé características clave y resolví errores críticos, mejorando la estabilidad y el rendimiento del proyecto. Mis contribuciones incluyeron: ",
                             "list": [
-                                "Como especialista en WordPress, me encargué de la arquitectura completa del sitio. ",
-                                "selección y configuración del tema principal.",
-                                "personalización de la estructura del sitio y la integración de plugins clave para la gestión de contenido y la optimización SEO."
+                                "Implementación de una nueva característica que mejoró la experiencia del usuario en un 25%",
+                                "Resolución de más de 50 errores críticos que mejoraron la fiabilidad del sistema",
+                                "Contribución a la documentación y soporte comunitario"
                             ]
                         },
                         "fr": {
@@ -263,6 +263,121 @@
                                 "사용자 경험을 25% 향상시킨 새로운 기능 구현",
                                 "시스템 신뢰성을 향상시킨 50개 이상의 중요한 버그 해결",
                                 "문서화 및 커뮤니티 지원에 기여"
+                            ]
+                        }
+                    }
+                },
+
+                {
+                    "id": 3,
+                    "date": {"year": 2022, "month": 11},
+                    "preview": {
+                        "links": [
+                            {"href": "https://medium.com", "tooltipString": "open_website", "faIcon": "fa-brands fa-medium"},
+                            {"href": "https://www.ieee.org/", "tooltipString": "open_website", "faIcon": "fa-solid fa-award"},
+                            {"href": "https://www.acm.org/", "tooltipString": "open_website", "faIcon": "fa-solid fa-trophy"}
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "{{Best Paper}} – International Summit",
+                            "province": "Beijing",
+                            "country": "China",
+                            "institution": "IEEE",
+                            "text": "Awarded for my research paper on software optimization techniques, which was presented at the International Conference on Software Engineering. The paper received positive feedback from industry experts and was published in the conference proceedings."
+                        },
+                        "es": {
+                            "title": "{{Mejor Artículo}} – Cumbre Internacional",
+                            "province": "Pekín",
+                            "country": "China",
+                            "institution": "IEEE",
+                            "text": "Premiado por mi artículo de investigación sobre técnicas de optimización de software, que fue presentado en la Conferencia Internacional sobre Ingeniería de Software. El artículo recibió comentarios positivos de expertos de la industria y fue publicado en las actas de la conferencia."
+                        },
+                        "fr": {
+                            "title": "{{Meilleur Article}} – Sommet International",
+                            "province": "Pékin",
+                            "country": "Chine",
+                            "institution": "IEEE",
+                            "text": "Récompensé pour mon article de recherche sur les techniques d'optimisation logicielle, qui a été présenté à la Conférence Internationale sur l'Ingénierie Logicielle. L'article a reçu des commentaires positifs d'experts du secteur et a été publié dans les actes de la conférence."
+                        },
+                        "ko": {
+                            "title": "{{최우수 논문}} – 국제 정상 회담",
+                            "province": "베이징",
+                            "country": "중국",
+                            "institution": "IEEE",
+                            "text": "소프트웨어 최적화 기술에 관한 연구 논문으로 국제 소프트웨어 공학 회의에서 발표하여 수상하였으며, 이 논문은 업계 전문가들로부터 긍정적인 피드백을 받았고 회의록에 게재되었습니다."
+                        }
+                    }
+                },
+
+                {
+                    "id": 4,
+                    "date": {"year": 2024, "month": 6},
+                    "preview": {
+                        "links": [
+                            {"href": "https://medium.com", "tooltipString": "open_website", "faIcon": "fa-brands fa-medium"}
+                        ],
+                        "screenshots": [
+                            "images/pictures/screenshot-demo-square-1.jpg",
+                            "images/pictures/screenshot-demo-square-2.jpg",
+                            "images/pictures/screenshot-demo-square-3.jpg",
+                            "images/pictures/screenshot-demo-square-4.jpg",
+                            "images/pictures/screenshot-demo-square-5.jpg",
+                            "images/pictures/screenshot-demo-square-6.jpg"
+                        ],
+                        "screenshotsAspectRatio": "1:1",
+                        "youtubeVideo": "https://www.youtube.com/watch?v=RGTfS-48Gf0"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "{{Best Innovator}} – Tech Innovation Summit",
+                            "province": "Rio de Janeiro",
+                            "country": "Brazil",
+                            "institution": "Tech Innovators Brazil",
+                            "text": "Recognized as the [[best innovator]] for my groundbreaking work in developing a new software tool that significantly improved data analysis processes. The tool was adopted by several leading companies in the industry, and I received a certificate of recognition for my contributions. My tool featured the following innovations: ",
+                            "list": [
+                                "Real-time data processing capabilities",
+                                "User-friendly interface that reduced training time by 50%",
+                                "Integration with popular data visualization tools"
+                            ]
+                        },
+                        "es": {
+                            "title": "{{Mejor Innovador}} – Cumbre de Innovación Tecnológica",
+                            "province": "Río de Janeiro",
+                            "country": "Brasil",
+                            "institution": "Innovadores Tecnológicos Brasil",
+                            "text": "Reconocido como el [[mejor innovador]] por mi trabajo innovador en el desarrollo de una nueva herramienta de software que mejoró significativamente los procesos de análisis de datos. La herramienta fue adoptada por varias empresas líderes en la industria, y recibí un certificado de reconocimiento por mis contribuciones. Mi herramienta presentó las siguientes innovaciones: ",
+                            "list": [
+                                "Capacidades de procesamiento de datos en tiempo real",
+                                "Interfaz fácil de usar que redujo el tiempo de capacitación en un 50%",
+                                "Integración con herramientas populares de visualización de datos"
+                            ]
+                        },
+                        "fr": {
+                            "title": "{{Meilleur Innovateur}} – Sommet de l'Innovation Technologique",
+                            "province": "Rio de Janeiro",
+                            "country": "Brésil",
+                            "institution": "Innovateurs Technologiques Brésil",
+                            "text": "Reconnu comme le [[meilleur innovateur]] pour mon travail révolutionnaire dans le développement d'un nouvel outil logiciel qui a considérablement amélioré les processus d'analyse de données. L'outil a été adopté par plusieurs entreprises leaders du secteur, et j'ai reçu un certificat de reconnaissance pour mes contributions. Mon outil présentait les innovations suivantes : ",
+                            "list": [
+                                "Capacités de traitement des données en temps réel",
+                                "Interface conviviale qui a réduit le temps de formation de 50%",
+                                "Intégration avec des outils populaires de visualisation des données"
+                            ]
+                        },
+                        "ko": {
+                            "title": "{{최고 혁신가}} – 기술 혁신 정상 회담",
+                            "province": "리우데자네이루",
+                            "country": "브라질",
+                            "institution": "브라질 기술 혁신가",
+                            "text": "데이터 분석 프로세스를 크게 개선하는 새로운 소프트웨어 도구 개발에서 획기적인 작업으로 최고의 혁신가로 인정받았습니다. 이 도구는 업계의 여러 선도 기업에서 채택되었으며, 제 기여에 대한 인증서를 받았습니다. 제 도구는 다음과 같은 혁신을 특징으로 하였습니다: ",
+                            "list": [
+                                "실시간 데이터 처리 기능",
+                                "교육 시간을 50% 단축시킨 사용자 친화적인 인터페이스",
+                                "인기 있는 데이터 시각화 도구와의 통합"
                             ]
                         }
                     }
