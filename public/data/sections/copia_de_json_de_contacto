@@ -1,0 +1,14 @@
+{
+                    "id": 6,
+                    "faIcon": "fa-brands fa-tiktok",
+                    "faIconColors": { "bg": "", "fill": "" },
+                    "label": "@miguelatasiglesias",
+                    "link": {"href": "https://tiktok.com/@markchoi", "tooltipString": "open_website"},
+                    "locales": {
+                        "en": { "title": "TikTok" },
+                        "ko": { "title": "틱톡" }
+                    }
+                }
+
+
+                "faIcon": "fa-brands fa-tiktok",

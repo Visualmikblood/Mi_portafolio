@@ -12,7 +12,7 @@
                 "title_short_nav": "Logros",
                 "title_long_prefix": "Aquí están mis",
                 "title_long": "{{Logros}} Profesionales"
-            },
+            },  
             "fr": {
                 "title_short": "Réalis",
                 "title_short_nav": "Réalisations",
@@ -48,7 +48,7 @@
                     "img": "",
                     "faIcon": "fa-solid fa-life-ring",
                     "faIconColors": {"bg": "#326CE5", "fill": "#EEE"},
-                    "date": {"year": 2020, "month": 12},
+                    "date": {"year": 2025, "month": 6},
                     "link": {"href": "https://www.linuxfoundation.org/", "tooltipString": "see_certification"},
                     "locales": {
                         "en": {
@@ -56,7 +56,8 @@
                             "text": "Certified Kubernetes Administrator (CKA)"
                         },
                         "es": {
-                            "text": "Administrador de Kubernetes Certificado (CKA)"
+                             "title": "Facturación {{Electrónica}} ",
+                            "text": "Conocimientos para la facturación electrónica"
                         },
                         "fr": {
                             "text": "Administrateur Kubernetes Certifié (CKA)"
@@ -72,15 +73,16 @@
                     "img": "",
                     "faIcon": "fa-brands fa-aws",
                     "faIconColors": {"bg": "#FFD700", "fill": "#111"},
-                    "date": {"year": 2021, "month": 5},
+                    "date": {"year": 2017, "month": 6},
                     "link": {"href": "https://www.aws.com/", "tooltipString": "see_certification"},
                     "locales": {
                         "en": {
-                            "title": "{{Amazon}} Web Services",
+                            "title": "{{título Bachiller}} Artes",
                             "text": "AWS Certified Solutions Architect – Associate"
                         },
                         "es": {
-                            "text": "Arquitecto de Soluciones Certificado por AWS - Asociado"
+                             "title": "{{título Bachiller}} Artes",
+                            "text": "Certificacion exitosa de educación secundaria"
                         },
                         "fr": {
                             "text": "Architecte de Solutions Certifié AWS - Associé"
@@ -96,7 +98,7 @@
                     "img": "",
                     "faIcon": "fa-brands fa-java",
                     "faIconColors": {"bg": "#007396", "fill": "#EEE"},
-                    "date": {"year": 2022, "month": 5},
+                    "date": {"year": 2021, "month": 5},
                     "link": {"href": "https://www.oracle.com/", "tooltipString": "see_certification"},
                     "locales": {
                         "en": {
@@ -104,7 +106,8 @@
                             "text": "Certified Java Developer"
                         },
                         "es": {
-                            "text": "Desarrollador Java Certificado"
+                            "title": "Certificado profesional {{Ingles B2}}",
+                            "text": "Certificacion linguistica de nivel B2"
                         },
                         "fr": {
                             "text": "Développeur Java Certifié"
@@ -120,15 +123,17 @@
                     "img": "",
                     "faIcon": "fa-solid fa-database",
                     "faIconColors": {"bg": "#47A248", "fill": "#EEE"},
-                    "date": {"year": 2023, "month": 8},
+                    "date": {"year": 2023, "month": 3},
                     "link": {"href": "https://www.mongodb.com/", "tooltipString": "see_certification"},
                     "locales": {
                         "en": {
                             "title": "{{MongoDB}} University",
                             "text": "MongoDB Certified Developer"
                         },
+                        
                         "es": {
-                            "text": "Desarrollador Certificado de MongoDB"
+                            "title": "Técnico superior en {{DAW}}",
+                            "text": "Capacitación profesional en desarrollar aplicaciones web"
                         },
                         "fr": {
                             "text": "Développeur Certifié MongoDB"

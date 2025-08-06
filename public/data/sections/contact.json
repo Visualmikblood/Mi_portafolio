@@ -139,12 +139,13 @@
                 },
                 {
                     "id": 6,
-                    "faIcon": "fa-brands fa-tiktok",
+                    "faIcon": "fa-brands fa-github",
                     "faIconColors": { "bg": "", "fill": "" },
-                    "label": "@miguelatasiglesias",
-                    "link": {"href": "https://tiktok.com/@markchoi", "tooltipString": "open_website"},
+                    "label": "@Visualmikblood",
+                    "link": {"href": "https://github.com/Visualmikblood", "tooltipString": "open_website"},
                     "locales": {
-                        "en": { "title": "TikTok" },
+                        "en": { "title": "Git Hub" },
+                        "es": { "title": "Git Hub" },
                         "ko": { "title": "틱톡" }
                     }
                 }
