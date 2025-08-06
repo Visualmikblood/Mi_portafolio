@@ -37,25 +37,25 @@
                     "category_all": "All",
                     "category_apps": "Apps",
                     "category_web": "Web",
-                    "category_utilities": "Utilities"
+                    "category_utilities": "WordPress"
                 },
                 "es": {
                     "category_all": "Todo",
                     "category_apps": "Apps",
                     "category_web": "Web",
-                    "category_utilities": "Utilidades"
+                    "category_utilities": "WordPress"
                 },
                 "fr": {
                     "category_all": "Tout",
                     "category_apps": "Apps",
                     "category_web": "Web",
-                    "category_utilities": "Utilitaires"
+                    "category_utilities": "WordPress"
                 },
                 "ko": {
                     "category_all": "모두",
                     "category_apps": "앱",
                     "category_web": "웹",
-                    "category_utilities": "유틸리티"
+                    "category_utilities": "WordPress"
                 }
             },
             "settings": {
@@ -67,7 +67,7 @@
                 {
                     "id": 1,
                     "categoryId": "category_utilities",
-                    "img": "images/pictures/portfolio-project-logo-3.png",
+                    "img": "images/pictures/iconos_mios_para_portfolio/wordpress.jpg",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
                     "preview": {
@@ -92,7 +92,8 @@
                             "tags": ["API", "REST", "Backend"]
                         },
                         "es": {
-                            "text": "Una <b>API RESTful</b> construida con <b>Node.js</b>, diseñada para el procesamiento de datos de alto rendimiento y la gestión de eventos en tiempo real.",
+                            "title": "EL mago Joquer (Wordpress)",
+                            "text": "Web <b>original de magia creada con WordPress</b>. Diseño responsive, contenido dinámico y enfoque visual atractivo.",
                             "tags": ["API", "REST", "Backend"]
                         },
                         "fr": {
@@ -439,7 +440,7 @@
                 {
                     "id": 8,
                     "categoryId": "category_utilities",
-                    "img": "images/pictures/portfolio-project-logo-4.png",
+                    "img": "images/pictures/iconos_mios_para_portfolio/wordpress.jpg",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
                     "preview": {
@@ -459,8 +460,8 @@
                             "tags": ["AI", "Prediction", "Soccer"]
                         },
                         "es": {
-                            "title": "Soccer Analytics",
-                            "text": "Una plataforma de análisis deportivo impulsada por IA construida con <b>Python</b> y <b>TensorFlow</b>, que ofrece <b>predicciones</b> detalladas de fútbol y herramientas de gestión de equipos.",
+                            "title": "Zenbushidokarate (Wordpress)",
+                            "text": "Web original de <b>artes marciales desarrollada con WordPress</b>. Diseño responsive, información sobre clases, horarios e instructores.",
                             "tags": ["IA", "Predicción", "Fútbol"]
                         },
                         "fr": {
