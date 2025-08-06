@@ -182,8 +182,8 @@
                         },
                         "es": {
                             "title": "{{Colaboracion web sobre}} – Trading",
-                            "province": "España",
-                            "country": "Portugal",
+                            "province": "España - Portugal",
+                            "country": "España - Portugal",
                             "institution": "React",
                             "text": "Junto a un colega programador de React, desarrollé una plataforma web para traders centrada en el análisis de datos financieros y la visualización de mercado en tiempo real. El objetivo principal fue crear una herramienta intuitiva que permitiera a los usuarios seguir sus activos y tomar decisiones más informadas."
                         },
@@ -231,8 +231,8 @@
                         },
                         "es": {
                             "title": "{{Colaboración web Wordpress sobre}} – Una empresa de viajes",
-                            "province": "España",
-                            "country": "Portugal",
+                            "province": "España - Portugal",
+                            "country": "España - Portugal",
                             "institution": "Wordpress",
                             "text": "Junto a un colega desarrollador de React, colaboré en la creación de una web de viajes especializada en vuelos y aerolíneas. El objetivo del proyecto fue ofrecer a los usuarios una plataforma visualmente atractiva e interactiva con información relevante sobre destinos, rutas y ofertas. Mis contribuciones incluyeron: ",
                             "list": [
