@@ -192,7 +192,7 @@
                     "faIconColors": {"bg": "", "fill": ""},
                     "preview": {
                         "links": [
-                            {"href": "https://cash.com", "tooltipString": "open_website", "faIcon": "fa-solid fa-link"}
+                            {"href": "https://cash.com", "tooltipString": "open_website", "faIcon": "fa-brands fa-github"}
                         ],
                         "screenshots": [
 
@@ -271,7 +271,7 @@
                     "faIconColors": {"bg": "", "fill": ""},
                     "preview": {
                         "links": [
-                            {"href": "https://google.com", "tooltipString": "open_website", "faIcon": "fa-solid fa-link"}
+                            {"href": "https://google.com", "tooltipString": "open_website", "faIcon": "fa-brands fa-github"}
                         ],
                         "screenshots": [
 
@@ -310,7 +310,7 @@
                     "faIconColors": {"bg": "#7671AA", "fill": "#EEEEEE"},
                     "preview": {
                         "links": [
-                            {"href": "https://google.com", "tooltipString": "open_website", "faIcon": "fa-solid fa-link"}
+                            {"href": "https://google.com", "tooltipString": "open_website", "faIcon": "fa-brands fa-github"}
                         ],
                         "screenshots": [
 
@@ -353,7 +353,7 @@
                     "faIconColors": {"bg": "#7671AA", "fill": "#EEEEEE"},
                     "preview": {
                         "links": [
-                            {"href": "https://google.com", "tooltipString": "open_website", "faIcon": "fa-solid fa-link"}
+                            {"href": "https://google.com", "tooltipString": "open_website", "faIcon": "fa-brands fa-github"}
                         ],
                         "screenshots": [
 
@@ -384,6 +384,52 @@
                         }
                     }
                 },
+
+
+
+
+
+
+                {
+                    "id": 7,
+                    "categoryId": "category_web",
+                    "img": "images/pictures/iconos_mios_para_portfolio/barcelona.png",
+                    "faIcon": "fa-solid fa-guitar",
+                    "faIconColors": {"bg": "#7671AA", "fill": "#EEEEEE"},
+                    "preview": {
+                        "links": [
+                            {"href": "https://github.com/Visualmikblood/fcbarcelona.git", "tooltipString": "open_website", "faIcon": "fa-brands fa-github"}
+                        ],
+                        "screenshots": [
+
+                        ],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "RockVerse",
+                            "text": "A dynamic music and entertainment website developed with <b>Django</b>, showcasing rock music news, events, and <b>streaming content</b>.",
+                            "tags": ["Django", "Music", "Rock"]
+                        },
+                        "es": {
+                            "title": "Recreación 'FC Barcelona' ",
+                            "text": "Réplica visual y funcional de la web del FC Barcelona, desarrollada con HTML y CSS. Estructura fiel al original.",
+                            "tags": ["Responsive Design", "HTML", "CSS"]
+                        },
+                        "fr": {
+                            "title": "RockVerse",
+                            "text": "Un site web de musique et de divertissement dynamique développé avec <b>Django</b>, mettant en avant des nouvelles, événements et <b>contenu en streaming</b> sur le rock.",
+                            "tags": ["Django", "Musique", "Rock"]
+                        },
+                        "ko": {
+                            "title": "RockVerse",
+                            "text": "<b>Django</b>로 개발된 동적인 음악 및 엔터테인먼트 웹사이트로, 록 음악 뉴스, 이벤트 및 <b>스트리밍 콘텐츠</b>를 제공합니다.",
+                            "tags": ["Django", "음악", "록"]
+                        }
+                    }
+                },
+
 
 
 
@@ -432,7 +478,7 @@
                 {
                     "id": 9,
                     "categoryId": "category_apps",
-                    "img": "",
+                    "img": "images/pictures/iconos_mios_para_portfolio/juego-de-lucha.png",
                     "faIcon": "fa-solid fa-truck-fast",
                     "faIconColors": {"bg": "#007396", "fill": "#EEEEEE"},
                     "preview": {
@@ -454,9 +500,54 @@
                             "tags": ["React Native", "Delivery", "Real-Time Tracking"]
                         },
                         "es": {
+                            "title": "Video juego de lucha",
+                            "text": "Réplica funcional de un videojuego de lucha inspirado en Street Fighter, desarrollada con HTML, CSS, JavaScript y react. Jugabilidad básica y diseño fiel al estilo clásico.",
+                            "tags": ["Videojuego", "Street Fighter", "Juego de lucha"]
+                        },
+                        "fr": {
                             "title": "QuickDrop",
-                            "text": "Una app de entregas multiplataforma construida con <b>React Native</b> y un backend de <b>Node.js</b>, con <b>seguimiento en tiempo real</b> e integración perfecta en múltiples plataformas.",
-                            "tags": ["React Native", "Entrega", "Seguimiento"]
+                            "text": "Une application de livraison multiplateforme construite avec <b>React Native</b> et un backend <b>Node.js</b>, avec <b>suivi en temps réel</b> et intégration fluide sur plusieurs plateformes.",
+                            "tags": ["React Native", "Livraison", "Suivi"]
+                        },
+                        "ko": {
+                            "title": "QuickDrop",
+                            "text": "<b>React Native</b>와 <b>Node.js</b> 백엔드로 구축된 크로스플랫폼 배송 앱으로, <b>실시간 추적</b> 및 여러 플랫폼과의 원활한 통합을 제공합니다.",
+                            "tags": ["React Native", "배송", "실시간 추적"]
+                        }
+                    }
+                },
+
+
+
+
+                {
+                    "id": 9,
+                    "categoryId": "category_apps",
+                    "img": "images/pictures/iconos_mios_para_portfolio/juego-de-lucha.png",
+                    "faIcon": "fa-solid fa-truck-fast",
+                    "faIconColors": {"bg": "#007396", "fill": "#EEEEEE"},
+                    "preview": {
+                        "links": [
+                            {"href": "https://apple.com", "tooltipString": "see_on_app_store", "faIcon": "fa-brands fa-apple"},
+                            {"href": "https://google.com", "tooltipString": "see_on_google_play", "faIcon": "fa-brands fa-google-play"},
+                            {"href": "https://windows.com", "tooltipString": "see_on_windows_store", "faIcon": "fa-brands fa-windows"}
+                        ],
+                        "screenshots": [
+
+                        ],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "QuickDrop",
+                            "text": "A cross-platform delivery app built with <b>React Native</b> and a <b>Node.js backend</b>, featuring <b>real-time tracking</b> and seamless integration with multiple platforms.",
+                            "tags": ["React Native", "Delivery", "Real-Time Tracking"]
+                        },
+                        "es": {
+                            "title": "Videojuego bolita",
+                            "text": "Videojuego arcade con estética neón, desarrollado con JavaScript y Canvas. Rebota entre anillos giratorios evitando salidas.",
+                            "tags": ["Videojuego", "Arcade", "Interactividad"]
                         },
                         "fr": {
                             "title": "QuickDrop",
