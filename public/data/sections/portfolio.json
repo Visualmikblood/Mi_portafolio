@@ -145,7 +145,7 @@
                 {
                     "id": 3,
                     "categoryId": "category_apps",
-                    "img": "images/pictures/portfolio-project-logo-6.png",
+                    "img": "images/pictures/iconos_mios_para_portfolio/chat.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
                     "preview": {
@@ -187,7 +187,7 @@
                 {
                     "id": 4,
                     "categoryId": "category_web",
-                    "img": "images/pictures/portfolio-project-logo-1.png",
+                    "img": "images/pictures/iconos_mios_para_portfolio/video-marketing.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
                     "preview": {
@@ -207,9 +207,9 @@
                             "tags": ["Next.js", "Finance", "Money"]
                         },
                         "es": {
-                            "title": "SmartCash",
-                            "text": "Un sitio web financiero construido con <b>Next.js</b>, que permite a los usuarios <b>seguir presupuestos</b> y gestionar su dinero con gráficos interactivos e ideas.",
-                            "tags": ["Next.js", "Finanzas", "Dinero"]
+                            "title": "Recreacion de web 'Ruben Guo'",
+                            "text": "Imitación de la web de Ruben Guo realizada con fines educativos. El proyecto reproduce diseño del sitio original, para practicar habilidades front-end.",
+                            "tags": ["Front-End", "HTML", "CSS"]
                         },
                         "fr": {
                             "title": "SmartCash",
@@ -226,12 +226,12 @@
                 {
                     "id": 5,
                     "categoryId": "category_apps",
-                    "img": "images/pictures/portfolio-project-logo-2.png",
+                    "img": "images/pictures/iconos_mios_para_portfolio/blog-web.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
                     "preview": {
                         "links": [
-                            {"href": "https://apple.com", "tooltipString": "see_on_app_store", "faIcon": "fa-brands fa-apple"},
+                            {"href": "https://github.com/Visualmikblood/blog_actualizado.git", "tooltipString": "see_on_app_store", "faIcon": "fa-brands fa-github"},
                             {"href": "https://google.com", "tooltipString": "see_on_google_play", "faIcon": "fa-brands fa-google-play"}
                         ],
                         "screenshots": [
@@ -244,11 +244,11 @@
                         "en": {
                             "title": "Snappy",
                             "text": "A powerful photography app designed with <b>Swift</b> for iOS and Android, featuring <b>advanced camera controls</b>, editing tools, and AI-powered filters for quick photo enhancements.",
-                            "tags": ["Swift", "Photography", "Camera"]
+                            "tags": ["Blog App", "localStorage"]
                         },
                         "es": {
-                            "title": "Snappy",
-                            "text": "Una app de fotografía potente diseñada con <b>Swift</b> para iOS y Android, con <b>controles avanzados de cámara</b>, herramientas de edición y filtros potenciados por IA para mejoras rápidas de fotos.",
+                            "title": "Blog",
+                            "text": "Aplicación de blog con creación, edición y eliminación de entradas. Usa localStorage, buscador, categorías, modo claro/oscuro, comentarios y sistema de “me gusta”. Diseño responsive y enfocado en la usabilidad.",
                             "tags": ["Swift", "Fotografía", "Cámara"]
                         },
                         "fr": {
@@ -266,7 +266,7 @@
                 {
                     "id": 6,
                     "categoryId": "category_web",
-                    "img": "images/pictures/portfolio-project-logo-5.png",
+                    "img": "images/pictures/iconos_mios_para_portfolio/bootcamp.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
                     "preview": {
@@ -286,9 +286,9 @@
                             "tags": ["WooCommerce", "Food", "Desserts"]
                         },
                         "es": {
-                            "title": "Sweet Scoops",
-                            "text": "Un sitio web de recetas construido con <b>WordPress</b> y WooCommerce, con una rica colección de <b>recetas de postres</b> y una plataforma de comercio electrónico integrada.",
-                            "tags": ["WooCommerce", "Comida", "Postres"]
+                            "title": "Recreacion 'Open bootcamp' ",
+                            "text": "Réplica visual y funcional de una web de bootcamp de programación, desarrollada con HTML Y CSS. Diseño responsive y estructura fiel al original.",
+                            "tags": ["Responsive Design", "HTML", "CSS"]
                         },
                         "fr": {
                             "title": "Sweet Scoops",
@@ -305,7 +305,7 @@
                 {
                     "id": 7,
                     "categoryId": "category_web",
-                    "img": "",
+                    "img": "images/pictures/iconos_mios_para_portfolio/la_velada.png",
                     "faIcon": "fa-solid fa-guitar",
                     "faIconColors": {"bg": "#7671AA", "fill": "#EEEEEE"},
                     "preview": {
@@ -325,9 +325,9 @@
                             "tags": ["Django", "Music", "Rock"]
                         },
                         "es": {
-                            "title": "RockVerse",
-                            "text": "Un sitio web dinámico de música y entretenimiento desarrollado con <b>Django</b>, que muestra noticias de música rock, eventos y <b>contenido en streaming</b>.",
-                            "tags": ["Django", "Música", "Rock"]
+                            "title": "Recreación 'La velada 4' ",
+                            "text": "Réplica visual y funcional de la web de La Velada del Año 4 de Ibai, desarrollada con HTML y CSS. Diseño responsive y estructura fiel al original.",
+                            "tags": ["Responsive Design", "HTML", "CSS"]
                         },
                         "fr": {
                             "title": "RockVerse",
@@ -341,6 +341,55 @@
                         }
                     }
                 },
+
+
+
+
+                {
+                    "id": 7,
+                    "categoryId": "category_web",
+                    "img": "images/pictures/iconos_mios_para_portfolio/dj.png",
+                    "faIcon": "fa-solid fa-guitar",
+                    "faIconColors": {"bg": "#7671AA", "fill": "#EEEEEE"},
+                    "preview": {
+                        "links": [
+                            {"href": "https://google.com", "tooltipString": "open_website", "faIcon": "fa-solid fa-link"}
+                        ],
+                        "screenshots": [
+
+                        ],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "RockVerse",
+                            "text": "A dynamic music and entertainment website developed with <b>Django</b>, showcasing rock music news, events, and <b>streaming content</b>.",
+                            "tags": ["Django", "Music", "Rock"]
+                        },
+                        "es": {
+                            "title": "Recreación 'Like Mike' ",
+                            "text": "Réplica visual y funcional de la web del DJ Like Mike, desarrollada con HTML y CSS. Diseño y estructura fiel al original.",
+                            "tags": ["Responsive Design", "HTML", "CSS"]
+                        },
+                        "fr": {
+                            "title": "RockVerse",
+                            "text": "Un site web de musique et de divertissement dynamique développé avec <b>Django</b>, mettant en avant des nouvelles, événements et <b>contenu en streaming</b> sur le rock.",
+                            "tags": ["Django", "Musique", "Rock"]
+                        },
+                        "ko": {
+                            "title": "RockVerse",
+                            "text": "<b>Django</b>로 개발된 동적인 음악 및 엔터테인먼트 웹사이트로, 록 음악 뉴스, 이벤트 및 <b>스트리밍 콘텐츠</b>를 제공합니다.",
+                            "tags": ["Django", "음악", "록"]
+                        }
+                    }
+                },
+
+
+
+
+
+
                 {
                     "id": 8,
                     "categoryId": "category_utilities",
