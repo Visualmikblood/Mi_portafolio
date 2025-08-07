@@ -87,22 +87,22 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "BrainPulse",
-                            "text": "A <b>RESTful API</b> backend built with <b>Node.js</b>, designed for high-performance data processing and real-time event handling.",
-                            "tags": ["API", "REST", "Backend"]
+                            "title": "EL mago Joquer (Wordpress)",
+                            "text": "An original magic-themed website, <b>creada con WordPress</b>. It features a responsive design, dynamic content, and an appealing visual focus.",
+                            "tags": ["wordpress", "Magic", "web"]
                         },
                         "es": {
                             "title": "EL mago Joquer (Wordpress)",
                             "text": "Web <b>original de magia creada con WordPress</b>. Diseño responsive, contenido dinámico y enfoque visual atractivo.",
-                            "tags": ["API", "REST", "Backend"]
+                            "tags": ["wordpress", "magia", "web"]
                         },
                         "fr": {
-                            "text": "Un backend <b>API RESTful</b> construit avec <b>Node.js</b>, conçu pour le traitement de données haute performance et la gestion d'événements en temps réel.",
-                            "tags": ["API", "REST", "Backend"]
+                            "text": "Un site web original sur la magie, <b>creada con WordPress</b>. Il présente un design responsive, un contenu dynamique et une approche visuelle attrayante.",
+                            "tags": ["wordpress", "Magie", "web"]
                         },
                         "ko": {
-                            "text": "<b>Node.js</b>로 구축된 <b>RESTful API</b> 백엔드로, 고성능 데이터 처리 및 실시간 이벤트 처리용으로 설계되었습니다.",
-                            "tags": ["API", "REST", "Backend"]
+                            "text": "<웹사이트 <b>original de magia creada con WordPress</b>. 반응형 디자인, 동적 콘텐츠, 그리고 매력적인 시각적 접근 방식을 특징으로 합니다.",
+                            "tags": ["wordpress", "마법", "web"]
                         }
                     }
                 },
@@ -126,20 +126,20 @@
                     "locales": {
                         "en": {
                             "title": "Lista de atreas",
-                            "text": "A cross-platform email client built with <b>Flutter</b>, providing efficient communication with an intuitive UI for <b>managing emails</b>.",
-                            "tags": ["Flutter", "E-mail", "Communication"]
+                            "text": "A web application created with React to manage tasks in a simple and intuitive way. It allows you to add, edit, search for, and delete tasks in a clean and responsive interface.",
+                            "tags": ["React", "To-do list", "Task management"]
                         },
                         "es": {
                             "text": "Aplicación web creada con React para gestionar tareas de forma sencilla e intuitiva. Permite añadir, editar, buscar y eliminar tareas en una interfaz limpia y responsiva.",
                             "tags": ["React", "Lista de tareas", "Gestión de tareas"]
                         },
                         "fr": {
-                            "text": "Un client de messagerie multiplateforme construit avec <b>Flutter</b>, offrant une communication efficace et une interface intuitive pour <b>gérer les e-mails</b>.",
-                            "tags": ["Flutter", "E-mail", "Communication"]
+                            "text": "Une application web créée avec React pour gérer les tâches de manière simple et intuitive. Elle permet d'ajouter, d'éditer, de rechercher et de supprimer des tâches dans une interface propre et responsive.",
+                            "tags": ["React", "Liste de tâches", "Gestion des tâches"]
                         },
                         "ko": {
-                            "text": "<b>Flutter</b>로 구축된 크로스플랫폼 이메일 클라이언트로, 이메일 <b>관리</b>를 위한 직관적인 UI를 통해 효율적인 소통을 제공합니다.",
-                            "tags": ["Flutter", "이메일", "소통"]
+                            "text": "React로 만든 웹 애플리케이션으로, 간단하고 직관적인 방식으로 할 일을 관리합니다. 깔끔하고 반응형인 인터페이스에서 할 일을 추가, 편집, 검색, 삭제할 수 있습니다.",
+                            "tags": ["리액트", "할 일 목록", "할 일 관리"]
                         }
                     }
                 },
@@ -166,9 +166,9 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "Light Blue",
-                            "text": "A fully-featured productivity app developed with <b>React Native</b>, enabling users to organize tasks, notes, and projects across multiple devices. It offers <b>cloud sync</b>, intuitive UI, and collaboration features.",
-                            "tags": ["React", "Organization", "Notes"]
+                            "title": "React chat with Vite",
+                            "text": "A real-time chat application created with React and Vite, featuring a minimalist interface. It allows users to send messages, display their usernames, and show connection status using WebSockets.",
+                            "tags": ["Real-time chat", "Instant messaging", "Interactive application"]
                         },
                         "es": {
                             "title": "Chat react con vite",
@@ -176,12 +176,14 @@
                             "tags": ["Chat en tiempo real", "Mensajería instantánea", "Aplicación interactiva"]
                         },
                         "fr": {
-                            "text": "Une application de productivité complète développée avec <b>React Native</b>, permettant aux utilisateurs d'organiser tâches, notes et projets sur plusieurs appareils. Elle offre <b>synchronisation cloud</b>, interface intuitive et fonctionnalités de collaboration.",
-                            "tags": ["React", "Organisation", "Notes"]
+                            "title": "Chat React avec Vite",
+                            "text": "Un chat en temps réel créé avec React et Vite, doté d'une interface minimaliste. Il permet d'envoyer des messages, d'afficher le nom d'utilisateur et l'état de la connexion en utilisant des WebSockets.",
+                            "tags": ["Chat en temps réel", "Messagerie instantanée", "Application interactive"]
                         },
                         "ko": {
-                            "text": "<b>React Native</b>로 개발된 기능이 풍부한 생산성 앱으로, 사용자가 여러 기기에서 작업, 메모, 프로젝트를 <b>클라우드 동기화</b>와 직관적인 UI로 관리할 수 있습니다.",
-                            "tags": ["React", "조직", "메모"]
+                            "title": "리액트 및 비트 채팅",
+                            "text": "간결한 인터페이스를 갖춘, React와 Vite로 만든 실시간 채팅 애플리케이션입니다. **웹소켓(WebSockets)**을 사용하여 메시지를 보내고, 사용자 이름과 연결 상태를 표시할 수 있습니다.",
+                            "tags": ["실시간 채팅", "인스턴트 메시징", "인터랙티브 애플리케이션"]
                         }
                     }
                 },
@@ -203,9 +205,9 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "SmartCash",
-                            "text": "A finance website built using <b>Next.js</b>, allowing users to <b>track budgets</b> and manage their money with interactive charts and insights.",
-                            "tags": ["Next.js", "Finance", "Money"]
+                            "title": "Recreation of the 'Ruben Guo' website",
+                            "text": "An imitation of the 'Ruben Guo' website created for educational purposes. The project reproduces the design of the original site to practice front-end skills.",
+                            "tags": ["Front-End", "HTML", "CSS"]
                         },
                         "es": {
                             "title": "Recreacion de web 'Ruben Guo'",
@@ -213,14 +215,14 @@
                             "tags": ["Front-End", "HTML", "CSS"]
                         },
                         "fr": {
-                            "title": "SmartCash",
-                            "text": "Un site web financier construit avec <b>Next.js</b>, permettant aux utilisateurs de <b>suivre les budgets</b> et de gérer leur argent avec des graphiques interactifs et des analyses.",
-                            "tags": ["Next.js", "Finance", "Argent"]
+                            "title": "Recréation du site web 'Ruben Guo'",
+                            "text": "Une imitation du site web de Ruben Guo réalisée à des fins éducatives. Le projet reproduit le design du site original pour pratiquer les compétences front-end.",
+                            "tags": ["Front-End", "HTML", "CSS"]
                         },
                         "ko": {
-                            "title": "SmartCash",
-                            "text": "<b>Next.js</b>로 구축된 금융 웹사이트로, 사용자가 <b>예산을 추적</b>하고 상호작용하는 차트와 통찰력으로 자금을 관리할 수 있습니다.",
-                            "tags": ["Next.js", "금융", "돈"]
+                            "title": "'루벤 궈' 웹사이트 재구성",
+                            "text": "교육 목적으로 제작된 '루벤 궈' 웹사이트의 모방작입니다. 이 프로젝트는 원본 사이트의 디자인을 재현하여 프론트엔드 기술을 연습하기 위함입니다.",
+                            "tags": ["프론트엔드", "HTML", "CSS"]
                         }
                     }
                 },
@@ -243,9 +245,9 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "Snappy",
-                            "text": "A powerful photography app designed with <b>Swift</b> for iOS and Android, featuring <b>advanced camera controls</b>, editing tools, and AI-powered filters for quick photo enhancements.",
-                            "tags": ["Blog App", "localStorage"]
+                            "title": "Blog",
+                            "text": "A blog application with post creation, editing, and deletion. It uses localStorage, a search engine, categories, light/dark mode, comments, and a 'like' system. The design is responsive and focused on usability.",
+                            "tags": ["Swift", "Photography", "Camera"]
                         },
                         "es": {
                             "title": "Blog",
@@ -253,13 +255,13 @@
                             "tags": ["Swift", "Fotografía", "Cámara"]
                         },
                         "fr": {
-                            "title": "Snappy",
-                            "text": "Une application de photographie puissante conçue avec <b>Swift</b> pour iOS et Android, avec des <b>contrôles avancés de la caméra</b>, des outils d'édition et des filtres IA pour des améliorations rapides des photos.",
+                            "title": "Blog",
+                            "text": "Une application de blog avec création, édition et suppression d'articles. Elle utilise localStorage, un moteur de recherche, des catégories, un mode clair/sombre, des commentaires et un système de 'j'aime'. Le design est responsive et axé sur la convivialité.",
                             "tags": ["Swift", "Photographie", "Caméra"]
                         },
                         "ko": {
-                            "title": "Snappy",
-                            "text": "<b>Swift</b>로 설계된 강력한 사진 앱으로, iOS 및 Android에서 <b>고급 카메라 제어</b>, 편집 도구, AI 기반 필터를 통해 빠르게 사진을 보정할 수 있습니다.",
+                            "title": "블로그",
+                            "text": "게시물 생성, 편집 및 삭제 기능이 있는 블로그 애플리케이션입니다. localStorage를 사용하며, 검색 기능, 카테고리, 밝은/어두운 모드, 댓글 및 '좋아요' 시스템을 갖추고 있습니다. 반응형 디자인이며 사용성에 중점을 두었습니다.",
                             "tags": ["Swift", "사진", "카메라"]
                         }
                     }
@@ -282,9 +284,9 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "Sweet Scoops",
-                            "text": "A recipe website built with <b>WordPress</b> and WooCommerce, featuring a rich collection of <b>dessert recipes</b> and an integrated e-commerce platform.",
-                            "tags": ["WooCommerce", "Food", "Desserts"]
+                            "title": "'Open bootcamp' Recreation",
+                            "text": "A visual and functional replica of a coding bootcamp website, developed with HTML and CSS. It features a responsive design and a structure faithful to the original.",
+                            "tags": ["Responsive Design", "HTML", "CSS"]
                         },
                         "es": {
                             "title": "Recreacion 'Open bootcamp' ",
@@ -292,14 +294,14 @@
                             "tags": ["Responsive Design", "HTML", "CSS"]
                         },
                         "fr": {
-                            "title": "Sweet Scoops",
-                            "text": "Un site de recettes construit avec <b>WordPress</b> et WooCommerce, présentant une riche collection de <b>recettes de desserts</b> et une plateforme de commerce électronique intégrée.",
-                            "tags": ["WooCommerce", "Cuisine", "Desserts"]
+                            "title": "Recréation 'Open bootcamp'",
+                            "text": "Une réplique visuelle et fonctionnelle d'un site web de bootcamp de programmation, développée avec HTML et CSS. Le design est responsive et la structure est fidèle à l'original.",
+                            "tags": ["Responsive Design", "HTML", "CSS"]
                         },
                         "ko": {
-                            "title": "Sweet Scoops",
-                            "text": "<b>WordPress</b>와 WooCommerce로 구축된 레시피 웹사이트로, 풍부한 <b>디저트 레시피</b> 모음과 통합된 전자상거래 플랫폼을 제공합니다.",
-                            "tags": ["WooCommerce", "음식", "디저트"]
+                            "title": "'오픈 부트캠프' 웹사이트 재구성",
+                            "text": "HTML과 CSS로 개발된 프로그래밍 부트캠프 웹사이트의 시각적 및 기능적 복제품입니다. 반응형 디자인이며 원본에 충실한 구조를 갖추고 있습니다.",
+                            "tags": ["반응형 디자인", "HTML", "CSS"]
                         }
                     }
                 },
@@ -321,9 +323,9 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "RockVerse",
-                            "text": "A dynamic music and entertainment website developed with <b>Django</b>, showcasing rock music news, events, and <b>streaming content</b>.",
-                            "tags": ["Django", "Music", "Rock"]
+                            "title": "'La velada 4' Recreation",
+                            "text": "A visual and functional replica of Ibai's 'La Velada del Año 4' website, developed with HTML and CSS. It features a responsive design and a structure faithful to the original.",
+                            "tags": ["Responsive Design", "HTML", "CSS"]
                         },
                         "es": {
                             "title": "Recreación 'La velada 4' ",
@@ -331,14 +333,14 @@
                             "tags": ["Responsive Design", "HTML", "CSS"]
                         },
                         "fr": {
-                            "title": "RockVerse",
-                            "text": "Un site web de musique et de divertissement dynamique développé avec <b>Django</b>, mettant en avant des nouvelles, événements et <b>contenu en streaming</b> sur le rock.",
-                            "tags": ["Django", "Musique", "Rock"]
+                            "title": "Recréation 'La velada 4'",
+                            "text": "Une réplique visuelle et fonctionnelle du site web d'Ibai pour 'La Velada del Año 4', développée avec HTML et CSS. Le design est responsive et la structure est fidèle à l'original.",
+                            "tags": ["Responsive Design", "HTML", "CSS"]
                         },
                         "ko": {
-                            "title": "RockVerse",
-                            "text": "<b>Django</b>로 개발된 동적인 음악 및 엔터테인먼트 웹사이트로, 록 음악 뉴스, 이벤트 및 <b>스트리밍 콘텐츠</b>를 제공합니다.",
-                            "tags": ["Django", "음악", "록"]
+                            "title": "'라 벨라다 4' 웹사이트 재구성",
+                            "text": "HTML과 CSS로 개발된 이바이(Ibai)의 'La Velada del Año 4' 웹사이트의 시각적 및 기능적 복제품입니다. 반응형 디자인이며 원본에 충실한 구조를 갖추고 있습니다.",
+                            "tags": ["반응형 디자인", "HTML", "CSS"]
                         }
                     }
                 },
@@ -364,9 +366,9 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "RockVerse",
-                            "text": "A dynamic music and entertainment website developed with <b>Django</b>, showcasing rock music news, events, and <b>streaming content</b>.",
-                            "tags": ["Django", "Music", "Rock"]
+                            "title": "'Like Mike' Recreation",
+                            "text": "A visual and functional replica of DJ Like Mike's website, developed with HTML and CSS. It features a design and structure faithful to the original.",
+                            "tags": ["Responsive Design", "HTML", "CSS"]
                         },
                         "es": {
                             "title": "Recreación 'Like Mike' ",
@@ -374,14 +376,14 @@
                             "tags": ["Responsive Design", "HTML", "CSS"]
                         },
                         "fr": {
-                            "title": "RockVerse",
-                            "text": "Un site web de musique et de divertissement dynamique développé avec <b>Django</b>, mettant en avant des nouvelles, événements et <b>contenu en streaming</b> sur le rock.",
-                            "tags": ["Django", "Musique", "Rock"]
+                            "title": "Recréation du site web 'Like Mike'",
+                            "text": "Une réplique visuelle et fonctionnelle du site web du DJ Like Mike, développée avec HTML et CSS. Le design et la structure sont fidèles à l'original.",
+                            "tags": ["Responsive Design", "HTML", "CSS"]
                         },
                         "ko": {
-                            "title": "RockVerse",
-                            "text": "<b>Django</b>로 개발된 동적인 음악 및 엔터테인먼트 웹사이트로, 록 음악 뉴스, 이벤트 및 <b>스트리밍 콘텐츠</b>를 제공합니다.",
-                            "tags": ["Django", "음악", "록"]
+                            "title": "'라이크 마이크' 웹사이트 재구성",
+                            "text": "HTML과 CSS로 개발된 DJ 라이크 마이크 웹사이트의 시각적 및 기능적 복제품입니다. 원본에 충실한 디자인과 구조를 갖추고 있습니다.",
+                            "tags": ["반응형 디자인", "HTML", "CSS"]
                         }
                     }
                 },
@@ -409,9 +411,9 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "RockVerse",
-                            "text": "A dynamic music and entertainment website developed with <b>Django</b>, showcasing rock music news, events, and <b>streaming content</b>.",
-                            "tags": ["Django", "Music", "Rock"]
+                            "title": "'FC Barcelona' Recreation",
+                            "text": "A visual and functional replica of the FC Barcelona website, developed with HTML and CSS. It has a structure faithful to the original.",
+                            "tags": ["Responsive Design", "HTML", "CSS"]
                         },
                         "es": {
                             "title": "Recreación 'FC Barcelona' ",
@@ -419,14 +421,14 @@
                             "tags": ["Responsive Design", "HTML", "CSS"]
                         },
                         "fr": {
-                            "title": "RockVerse",
-                            "text": "Un site web de musique et de divertissement dynamique développé avec <b>Django</b>, mettant en avant des nouvelles, événements et <b>contenu en streaming</b> sur le rock.",
-                            "tags": ["Django", "Musique", "Rock"]
+                            "title": "Recréation 'FC Barcelona'",
+                            "text": "Une réplique visuelle et fonctionnelle du site web du FC Barcelone, développée avec HTML et CSS. La structure est fidèle à l'original.",
+                            "tags": ["Responsive Design", "HTML", "CSS"]
                         },
                         "ko": {
-                            "title": "RockVerse",
-                            "text": "<b>Django</b>로 개발된 동적인 음악 및 엔터테인먼트 웹사이트로, 록 음악 뉴스, 이벤트 및 <b>스트리밍 콘텐츠</b>를 제공합니다.",
-                            "tags": ["Django", "음악", "록"]
+                            "title": "'FC 바르셀로나' 웹사이트 재구성",
+                            "text": "HTML과 CSS로 개발된 FC 바르셀로나 웹사이트의 시각적 및 기능적 복제품입니다. 원본에 충실한 구조를 갖추고 있습니다.",
+                            "tags": ["반응형 디자인", "HTML", "CSS"]
                         }
                     }
                 },

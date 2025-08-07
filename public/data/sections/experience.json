@@ -47,13 +47,13 @@
                     "dateEnd": {"year": 2023, "month": 11},
                     "locales": {
                         "en": {
-                            "title": "{{Backend}} Developer",
-                            "province": "Toronto",
-                            "country": "Canada",
-                            "institution": "Sapphire Studio",
-                            "text": "Developed and maintained [[scalable backend systems]] for various clients, optimizing database performance and implementing RESTful APIs to improve application functionality.",
+                            "title": "{{Intern}} Developer",
+                            "province": "Tomelloso (Ciudad Real)",
+                            "country": "Spain",
+                            "institution": "Ecode",
+                            "text": "During my internship at Ecode, I collaborated on real web development projects, participating in tasks such as [[layout design, maintenance of WordPress sites, and the development of basic functionalities in front-end and back-end environments]]. This experience allowed me to apply and reinforce my technical knowledge in a professional setting, as well as improve my teamwork and problem-solving skills.",
                             "list": [],
-                            "tags": ["PHP8.0", "MySQL", "Laravel"]
+                            "tags": ["Web development intern", "Professional internship", "Work experience", "Ecode company", "Web layout design", "HTML and CSS", "PHP", "In-company training"]
                         },
                         "es": {
                             "title": "Desarrollador  {{becario}}",
@@ -66,20 +66,20 @@
                     ]
                         },
                         "fr": {
-                            "title": "Développeur {{Backend}}",
-                            "province": "Toronto",
-                            "country": "Canada",
-                            "institution": "Sapphire Studio",
-                            "text": "Développement et maintenance de [[systèmes backend évolutifs]] pour divers clients, optimisation des performances des bases de données et mise en place d’API RESTful pour améliorer les fonctionnalités des applications.",
+                            "title": "Développeur {{stagiaire}}",
+                            "province": "Tomelloso (Ciudad Real)",
+                            "country": "Espagne",
+                            "institution": "Ecode",
+                            "text": "Durant mon stage chez Ecode, j'ai collaboré sur de vrais projets de développement web, participant à des tâches de [[maquettage, maintenance de sites WordPress et développement de fonctionnalités de base dans des environnements front-end et back-end]]. Cette expérience m'a permis d'appliquer et de renforcer mes connaissances techniques dans un environnement professionnel, ainsi que d'améliorer mes compétences en travail d'équipe et en résolution de problèmes.",
                             "list": [],
-                            "tags": []
+                            "tags": ["Stagiaire en développement web","Stage professionnel","Expérience professionnelle", "Entreprise Ecode", "Maquettage web","HTML et CSS", "PHP","Formation en entreprise"]
                         },
                         "ko": {
-                            "title": "{{백엔드}} 개발자",
-                            "province": "토론토",
-                            "country": "캐나다",
-                            "institution": "Sapphire Studio",
-                            "text": "다양한 클라이언트를 위한 [[확장 가능한 백엔드 시스템]]을 개발하고 유지보수했으며, 데이터베이스 성능을 최적화하고 RESTful API를 구현하여 애플리케이션 기능을 향상시켰습니다.",
+                            "title": "{{인턴}} 개발자",
+                            "province": "Tomelloso (Ciudad Real)",
+                            "country": "스페인",
+                            "institution": "Ecode",
+                            "text": "Ecode에서의 인턴 기간 동안 실제 웹 개발 프로젝트에 참여하며 [[레이아웃 디자인, 워드프레스 사이트 유지보수, 프론트엔드 및 백엔드 환경에서 기본적인 기능 개발]]과 같은 업무를 수행했습니다. 이 경험을 통해 전문적인 환경에서 기술적 지식을 적용하고 강화할 수 있었으며, 팀워크와 문제 해결 능력도 향상시켰습니다.",
                             "list": [],
                             "tags": []
                         }

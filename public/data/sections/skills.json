@@ -73,20 +73,20 @@
                     "link": {"href": "", "tooltipString": ""},
                     "locales": {
                         "en": {
-                            "title": "{{Database}} management",
-                            "text": "I can handle your data effectively and efficiently!"
+                            "title": "Advanced proficiency in {{Photoshop}}",
+                            "text": "Professional-level editing, retouching, and graphic design."
                         },
                         "es": {
                             "title": "Control avanzado de {{Photoshop}}",
                             "text": "Edición, retoque y diseño gráfico a nivel profesional."
                         },
                         "fr": {
-                            "title": "Gestion de {{bases de données}}",
-                            "text": "Je peux gérer vos données de manière efficace et efficiente !"
+                            "title": "Maîtrise avancée de {{Photoshop}}",
+                            "text": "Édition, retouche et conception graphique au niveau professionnel."
                         },
                         "ko": {
-                            "title": "{{데이터베이스}} 관리",
-                            "text": "데이터를 효과적이고 효율적으로 처리할 수 있습니다. 최고의 관행을 사용하여 데이터베이스를 관리합니다!"
+                            "title": "{{포토샵}} 고급 숙련",
+                            "text": "전문적인 수준의 편집, 리터칭 및 그래픽 디자인."
                         }
                     }
                 },
@@ -99,20 +99,20 @@
                     "link": {"href": "", "tooltipString": ""},
                     "locales": {
                         "en": {
-                            "title": "{{App}} creation",
-                            "text": "I can make creative and innovative apps!"
+                            "title": "Intermediate proficiency in {{Premiere Pro}}",
+                            "text": "Fluent video editing, with the use of essential tools for assembly and visual storytelling."
                         },
                         "es": {
                             "title": "Control medio de {{Premier Pro}}",
                             "text": "Edición de vídeo con fluidez y uso de herramientas esenciales para montaje y narrativa visual."
                         },
                         "fr": {
-                            "title": "Création {{d'applications}}",
-                            "text": "Je peux créer des applications créatives et innovantes !"
+                            "title": "Maîtrise intermédiaire de {{Premiere Pro}}",
+                            "text": "Montage vidéo fluide et utilisation d'outils essentiels pour le montage et la narration visuelle."
                         },
                         "ko": {
-                            "title": "{{앱}} 제작",
-                            "text": "창의적이고 혁신적인 앱을 만들 수 있습니다!"
+                            "title": "{{프리미어 프로}} 중급 숙련",
+                            "text": "영상 편집 및 시각적 내러티브를 위한 필수 도구 사용에 능숙합니다."
                         }
                     }
                 },
@@ -125,20 +125,20 @@
                     "link": {"href": "", "tooltipString": ""},
                     "locales": {
                         "en": {
-                            "title": "{{REST}} APIs",
-                            "text": "I can build API services!"
+                            "title": "Basic proficiency in {{After Effects}}",
+                            "text": "Simple animations, basic motion graphics, and foundational effects handling."
                         },
                         "es": {
                             "title": "Control basico de {{After Effects}}",
                             "text": "Animaciones simples, motion graphics básicos y manejo inicial de efectos."
                         },
                         "fr": {
-                            "title": "APIs {{REST}}",
-                            "text": "Je peux créer des services API !"
+                            "title": "Maîtrise de base de {{After Effects}}",
+                            "text": "Animations simples, motion graphics de base et gestion initiale des effets."
                         },
                         "ko": {
-                            "title": "{{REST}} API",
-                            "text": "API 서비스를 구축할 수 있습니다!"
+                            "title": "{{애프터 이펙트}} 기본 숙련",
+                            "text": "간단한 애니메이션, 기본적인 모션 그래픽, 그리고 기초적인 효과 처리."
                         }
                     }
                 },
@@ -151,20 +151,20 @@
                     "link": {"href": "", "tooltipString": ""},
                     "locales": {
                         "en": {
-                            "title": "Information {{Security}}",
-                            "text": "Security is my middle name!"
+                            "title": "Advanced proficiency in {{WordPress}}",
+                            "text": "Development, customization, and optimization in WordPress.!"
                         },
                         "es": {
                             "title": "Control avanzado de {{WordPress}}",
-                            "text": "¡La seguridad es mi segundo nombre!"
+                            "text": "Desarrollo, personalización, optimización en wordrpress"
                         },
                         "fr": {
-                            "title": "{{Sécurité}} Informatique",
-                            "text": "La sécurité est mon deuxième prénom !"
+                            "title": "Maîtrise avancée de {{WordPress}}",
+                            "text": "Développement, personnalisation et optimisation sous WordPress."
                         },
                         "ko": {
-                            "title": "{{정보}} 보안",
-                            "text": "보안은 내 중간 이름입니다!"
+                            "title": "{{워드프레스}} 고급 숙련",
+                            "text": "워드프레스 개발, 맞춤화 및 최적화."
                         }
                     }
                 }
@@ -201,17 +201,17 @@
                     "locales": {
                         "en": {
                             "title": "MySQL",
-                            "text": "I can manage and optimize MySQL databases for performance and reliability.",
+                            "text": "Management of simple databases and basic queries in relational environments.",
                             "level": ""
                         },
                         "es": {
                             "text": "Gestión de bases de datos simples y consultas básicas en entornos relacionales."
                         },
                         "fr": {
-                            "text": "Je peux gérer et optimiser les bases de données MySQL pour la performance et la fiabilité."
+                            "text": "Gestion de bases de données simples et requêtes de base dans des environnements relationnels."
                         },
                         "ko": {
-                            "text": "성능과 안정성을 위해 MySQL 데이터베이스를 관리하고 최적화할 수 있습니다."
+                            "text": "관계형 환경에서 간단한 데이터베이스 관리 및 기본 쿼리."
                         }
                     }
                 },
@@ -226,17 +226,17 @@
                     "locales": {
                         "en": {
                             "title": "PHP 8.0+",
-                            "text": "Strong understanding of PHP and its frameworks.",
+                            "text": "Simple scripts, conditional logic, and basic form handling.",
                             "level": ""
                         },
                         "es": {
                             "text": "Scripts simples, lógica condicional y manejo básico de formularios."
                         },
                         "fr": {
-                            "text": "Bonne compréhension de PHP et de ses frameworks."
+                            "text": "Scripts simples, logique conditionnelle et gestion de base des formulaires."
                         },
                         "ko": {
-                            "text": "PHP 및 그 프레임워크에 대한 강력한 이해."
+                            "text": "간단한 스크립트, 조건부 논리 및 기본 양식 처리."
                         }
                     }
                 },
@@ -253,17 +253,17 @@
                     "locales": {
                         "en": {
                             "title": "Git",
-                            "text": "Complete understanding of Git for version control and collaboration.",
+                            "text": "Basic version management and change control in local projects.",
                             "level": ""
                         },
                         "es": {
                             "text": "Gestión básica de versiones y control de cambios en proyectos locales."
                         },
                         "fr": {
-                            "text": "Compréhension complète de Git pour le contrôle de version et la collaboration."
+                            "text": "Gestion de base des versions et contrôle des modifications dans les projets locaux."
                         },
                         "ko": {
-                            "text": "버전 관리 및 협업을 위한 Git에 대한 완전한 이해."
+                            "text": "로컬 프로젝트에서 기본적인 버전 관리 및 변경 제어."
                         }
                     }
                 }
@@ -415,8 +415,8 @@
                     "locales": {
                         "en": {
                             "title": "English",
-                            "text": "Native speaker with excellent communication and writing skills.",
-                            "level": "Native"
+                            "text": "Ability to understand and communicate ideas clearly in English, in both everyday and professional contexts. Proficient enough to hold fluent conversations, write structured texts, and comprehend written and oral materials of medium-high difficulty.",
+                            "level": "Intermediate - B2"
                         },
                         "es": {
                             "title": "Inglés",
@@ -425,13 +425,13 @@
                         },
                         "fr": {
                             "title": "Anglais",
-                            "text": "Locuteur natif avec d'excellentes compétences en communication et en rédaction.",
-                            "level": "Natif"
+                            "text": "Capacité à comprendre et à communiquer des idées clairement en anglais, aussi bien dans des contextes quotidiens que professionnels. Niveau suffisant pour tenir des conversations fluides, rédiger des textes structurés et comprendre des documents écrits et oraux de difficulté moyenne-haute.",
+                            "level": "Intermédiaire - B2"
                         },
                         "ko": {
                             "title": "영어",
-                            "text": "탁월한 의사소통 및 작문 능력을 갖춘 원어민.",
-                            "level": "원어민"
+                            "text": "일상 및 전문적인 상황 모두에서 영어를 명확하게 이해하고 소통하는 능력. 유창하게 대화하고, 구조화된 텍스트를 작성하며, 중상급 난이도의 서면 및 구두 자료를 이해하기에 적합한 수준입니다.",
+                            "level": "중급 - B2"
                         }
                     }
                 },
@@ -445,8 +445,8 @@
                     "locales": {
                         "en": {
                             "title": "French",
-                            "text": "Fluent in both spoken and written French; confident in professional communication.",
-                            "level": "Fluent"
+                            "text": "A beginner's level of the language that allows for the understanding and use of common expressions, introductions, simple questions, and navigation of very basic everyday situations.",
+                            "level": "Basic - A1"
                         },
                         "es": {
                             "title": "Francés",
@@ -455,13 +455,13 @@
                         },
                         "fr": {
                             "title": "Français",
-                            "text": "Fluent en français parlé et écrit ; confiant dans la communication professionnelle.",
-                            "level": "Courant"
+                            "text": "Un niveau initial de la langue qui permet de comprendre et d'utiliser des expressions courantes, de se présenter, de poser des questions simples et de se débrouiller dans des contextes quotidiens très basiques.",
+                            "level": "Basique - A1"
                         },
                         "ko": {
                             "title": "프랑스어",
-                            "text": "구어 및 서면 프랑스어에 능통; 전문적인 의사소통에 자신감이 있습니다.",
-                            "level": "유창함"
+                            "text": "일상에서 흔한 표현들을 이해하고 사용하며, 자신을 소개하고, 간단한 질문을 하고, 아주 기초적인 일상 상황에 대처할 수 있는 초급 수준의 언어 능력.",
+                            "level": "기초 - A1"
                         }
                     }
                 },
@@ -476,9 +476,9 @@
                     "percentage": null,
                     "locales": {
                         "en": {
-                            "title": "French",
-                            "text": "Fluent in both spoken and written French; confident in professional communication.",
-                            "level": "Fluent"
+                            "title": "Spanish",
+                            "text": "Spanish is my native language, which gives me absolute fluency in both its written and spoken forms. I have fluid communication skills, total comprehension, and an advanced ability to express myself in formal and informal contexts.",
+                            "level": "Native (mother tongue)"
                         },
                         "es": {
                             "title": "Español",
@@ -486,14 +486,14 @@
                             "level": "nativo (lengua materna)"
                         },
                         "fr": {
-                            "title": "Français",
-                            "text": "Fluent en français parlé et écrit ; confiant dans la communication professionnelle.",
-                            "level": "Courant"
+                            "title": "Espagnol",
+                            "text": "L'espagnol est ma langue maternelle, ce qui me confère une maîtrise absolue de la langue, tant à l'oral qu'à l'écrit. Je possède une communication fluide, une compréhension totale et une capacité avancée à m'exprimer dans des contextes formels et informels.",
+                            "level": "Natif (langue maternelle)"
                         },
                         "ko": {
-                            "title": "프랑스어",
-                            "text": "구어 및 서면 프랑스어에 능통; 전문적인 의사소통에 자신감이 있습니다.",
-                            "level": "유창함"
+                            "title": "스페인어",
+                            "text": "스페인어는 저의 모국어이므로, 저는 구어와 문어 모두에 능통합니다. 유창하게 소통하고 완벽하게 이해하며, 공식적 및 비공식적 상황 모두에서 자신을 표현하는 데 능숙합니다.",
+                            "level": "원어민 (모국어)"
                         }
                     }
                 }

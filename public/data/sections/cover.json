@@ -5,7 +5,7 @@
                 "title_short": "Welcome!",
                 "title_short_nav": "About me",
                 "title_long_prefix": "Hello...",
-                "title_long": "I'm {{Mark Choi!}}"
+                "title_long": "I'm {{Miguel Ángel Iglesias De La Flor!}}"
             },
             "es": {
                 "title_short": "¡Saludos!",
@@ -48,7 +48,7 @@
                 {
                     "id": 2,
                     "label": "1bcmigueliglesias@gmail.com",
-                    "link": {"href": "mailto:mark.choi@dev.com", "tooltipString": "email_me"},
+                    "link": {"href": "mailto:1bcmigueliglesias@gmail.com", "tooltipString": "email_me"},
                     "faIcon": "fa-regular fa-envelope"
                 },
                 {
@@ -81,16 +81,16 @@
                     "faIconColors": {"bg": "", "fill": ""},
                     "locales": {
                         "en": {
-                            "text": "<p>I’m a {{PHP}} developer with [[over a decade]] of experience, specializing in backend development with some frontend work as well. I also have hands-on experience with C++, C#, Go, and Python in production environments.</p><p>This diverse background gives me the flexibility to adapt to a wide range of project needs, whether it's building scalable APIs, optimizing system performance, or contributing to full-stack solutions.</p><p>I look forward to collaborating [[with you!]]</p>"
+                            "text": "<p>I am a {{front-end}} developer with a strong foundation in [[HTML, CSS, JavaScript, and React]]. I combine my technical skills with my experience in [[Photoshop, Premiere Pro, and After Effects]] to create functional and visually appealing web experiences.</p><p>My passion for design and visual production allows me to go beyond the code. With a perspective that spans from aesthetics to technical optimization, I focus on creating digital solutions that not only meet functional requirements but also offer a polished user interface and a memorable experience.</p><p>I look forward to collaborating [[with you!]]</p>"
                         },
                         "es": {
                             "text": "<p>Soy un desarrollador {{front-end}} con una sólida base en [[HTML, CSS, JavaScript y React]]. Combino mis habilidades técnicas con mi experiencia en [[Photoshop, Premiere Pro y After Effects]] para crear experiencias web funcionales y visualmente atractivas.</p><p>Mi pasión por el diseño y la producción visual me permite ir más allá del código. Con una perspectiva que abarca desde la estética hasta la optimización técnica, me enfoco en crear soluciones digitales que no solo cumplan con los requisitos funcionales, sino que también ofrezcan una interfaz de usuario pulida y una experiencia memorable.</p><p>¡Espero con interés colaborar [[contigo!]]</p>"
                         },
                         "fr": {
-                            "text": "<p>Je suis développeur {{PHP}} avec [[plus d'une décennie]] d'expérience, spécialisé dans le développement backend avec un peu de travail en frontend également. J'ai aussi de l'expérience en production avec les technologies C++, C#, Go et Python.</p><p>Ce parcours diversifié me permet de m'adapter à une large gamme de besoins de projets, qu'il s'agisse de créer des API évolutives, d'améliorer les performances système ou de participer à des solutions full-stack.</p><p>Je suis impatient de collaborer [[avec vous !]]</p>"
+                            "text": "<p>Je suis un développeur {{front-end}} avec une base solide en [[HTML, CSS, JavaScript et React]]. Je combine mes compétences techniques avec mon expérience sur [[Photoshop, Premiere Pro et After Effects]] pour créer des expériences web fonctionnelles et visuellement attrayantes.</p><p>Ma passion pour le design et la production visuelle me permet d'aller au-delà du code. Avec une perspective qui va de l'esthétique à l'optimisation technique, je me concentre sur la création de solutions numériques qui répondent non seulement aux exigences fonctionnelles, mais qui offrent également une interface utilisateur soignée et une expérience mémorable.</p><p>J'ai hâte de collaborer [[avec vous !]]</p>"
                         },
                         "ko": {
-                            "text": "<p>저는 {{백엔드}} 개발을 전문으로 하고, 프론트엔드 작업도 일부 수행해온 [[10년 이상의]] 경력을 가진 PHP 개발자입니다. 또한 C++, C#, Go, Python 스택을 사용한 프로덕션 경험도 있습니다.</p><p>이 다양한 배경 덕분에 프로젝트의 다양한 요구에 유연하게 대처할 수 있습니다. 확장 가능한 API 구축, 시스템 성능 최적화, 또는 전체 스택 솔루션에 기여하는 등 다양한 분야에 능숙하게 참여할 수 있습니다. 저는 각 프로젝트에 맞는 최적의 도구를 찾는 것과 새로운 도전을 즐깁니다.</p><p>[[당신과 협업]]하기를 기대하고 있습니다!</p>"
+                            "text": "<p>저는 [[HTML, CSS, JavaScript 및 React]]에 대한 탄탄한 기반을 갖춘 {{front-end}} 개발자입니다. 저는 기술 능력과 [[Photoshop, Premiere Pro 및 After Effects]] 경험을 결합하여 기능적이고 시각적으로 매력적인 웹 경험을 만듭니다.</p><p>디자인 및 시각적 제작에 대한 저의 열정은 제가 코드 그 이상을 생각할 수 있게 해줍니다. 미적 감각부터 기술적 최적화까지 아우르는 관점을 가지고, 저는 기능적 요구 사항을 충족할 뿐만 아니라 세련된 사용자 인터페이스와 기억에 남는 경험을 제공하는 디지털 솔루션을 만드는 데 중점을 둡니다.</p><p>[[당신과]] 함께 협업하기를 기대합니다!</p>"
                         }
                     }
                 }
@@ -120,20 +120,20 @@
                     "faIconColors": {"bg": "", "fill": ""},
                     "locales": {
                         "en": {
-                            "title": "CEO at [[SalesForce]]",
-                            "text": "Working with Mark was a truly [[transformative experience]]. His outstanding programming skills and collaborative spirit not only elevated the quality of our project but also brought a renewed sense of motivation and purpose to us."
+                            "title": "Professional [[magician]]",
+                            "text": "Working with [[Miguel]] was a magical and truly transformative experience. His great skill with code and his collaborative vision made my web project spectacular, giving my brand new life and restoring my motivation and purpose."
                         },
                         "es": {
                             "title": "[[Mago]] professional",
                             "text": "Trabajar con [[Miguel]] fue una experiencia mágica y verdaderamente transformadora. Su gran habilidad con el código y su visión colaborativa hicieron que mi proyecto web fuera espectacular, dándole una nueva vida a mi marca y devolviéndome la motivación y el propósito."
                         },
                         "fr": {
-                            "title": "PDG de [[SalesForce]]",
-                            "text": "Travailler avec Mark fut une [[expérience transformante]]. Ses compétences en programmation et son esprit d’équipe ont élevé le projet et ravivé notre motivation et notre but."
+                            "title": "[[Magicien]] professionnel",
+                            "text": "Travailler avec [[Miguel]] a été une expérience magique et vraiment transformatrice. Sa grande maîtrise du code et sa vision collaborative ont rendu mon projet web spectaculaire, donnant une nouvelle vie à ma marque et me redonnant ma motivation et mon objectif."
                         },
                         "ko": {
-                            "title": "세일즈포스 CEO",
-                            "text": "Mark와 함께한 시간은 [[변화의 경험]]이었습니다. 그의 뛰어난 프로그래밍 실력과 협업 정신은 프로젝트 품질을 높이고 우리에게 새로운 동기를 불어넣었습니다."
+                            "title": "[[전문]] 마술사",
+                            "text": "[[Miguel]]과 함께 일한 것은 마법 같고 진정으로 변화를 가져다주는 경험이었습니다. 코드에 대한 그의 뛰어난 능력과 협력적인 비전은 제 웹 프로젝트를 매우 훌륭하게 만들었고, 제 브랜드에 새로운 생명을 불어넣었으며, 저에게 동기와 목적을 되찾아주었습니다."
                         }
                     }
                 },
@@ -146,20 +146,20 @@
                     "faIconColors": {"bg": "", "fill": ""},
                     "locales": {
                         "en": {
-                            "title": "Lead Developer at [[GitHub]]",
-                            "text": "Having Mark on our team was an invaluable asset. His [[deep programming insights and mentorship]] not only elevated our projects but also empowered us to tackle every challenge with confidence and creativity."
+                            "title": "[[Martial arts]] master",
+                            "text": "Working with Miguel on the website for my dojo was a [[masterful experience]]. His discipline and technical knowledge built a flawless website that reflects the seriousness of my school, giving me a powerful tool for my purpose."
                         },
                         "es": {
                             "title": "[[Maestro]] de artes marciales",
                             "text": "Trabajar con Miguel en la web para mi dojo fue una [[experiencia de maestría]]. Su disciplina y conocimiento técnico construyeron una web impecable que refleja la seriedad de mi escuela, dándome una herramienta poderosa para mi propósito."
                         },
                         "fr": {
-                            "title": "Développeur Principal chez [[GitHub]]",
-                            "text": "La présence de Mark fut un atout inestimable. Ses [[connaissances en programmation et son mentorat]] ont renforcé nos projets et notre capacité à relever les défis avec assurance."
+                            "title": "[[Maître d'arts]] martiaux",
+                            "text": "Travailler avec Miguel sur le site web de mon dojo a été une [[expérience de maîtrise]]. Sa discipline et ses connaissances techniques ont construit un site web impeccable qui reflète le sérieux de mon école, me donnant un outil puissant pour mon objectif."
                         },
                         "ko": {
-                            "title": "[[GitHub]] 수석 개발자",
-                            "text": "Mark는 소중한 자산이었습니다. 그의 [[깊은 프로그래밍 통찰력과 멘토링]]은 프로젝트를 향상시키고 도전을 자신감과 창의성으로 해결할 수 있게 해주었습니다."
+                            "title": "[[무술]] 사범",
+                            "text": "도장 웹사이트 제작을 위해 Miguel과 함께 일한 것은 [[달인의 경험]]이었습니다. 그의 규율과 기술적 지식은 흠잡을 데 없는 웹사이트를 구축했으며, 이는 제 도장의 진지함을 반영하고, 저의 목적을 위한 강력한 도구를 제공해주었습니다."
                         }
                     }
                 },
@@ -172,20 +172,20 @@
                     "faIconColors": {"bg": "", "fill": ""},
                     "locales": {
                         "en": {
-                            "title": "Managing Director at [[Dingga]]",
-                            "text": "Collaborating with Mark was a true [[game changer]] for our entire development process. His [[deep technical expertise]], creative problem-solving, and proactive mindset were absolutely invaluable."
+                            "title": "[[Owner]] of Pub Chicago",
+                            "text": "Working with Miguel on my pub's website was great. He created a website that is not only functional, but also perfectly captures the vibe of the place, [[attracting more people to visit us.]]"
                         },
                         "es": {
                             "title": "[[Dueño]] de Pub Chicago",
                             "text": "Trabajar con Miguel para mi pub fue genial. Creó una web que no solo es funcional, sino que también captura a la perfección el ambiente del lugar, [[atrayendo a más gente a visitarnos..]]"
                         },
                         "fr": {
-                            "title": "Directrice Générale chez [[Dingga]]",
-                            "text": "Travailler avec Mark a été un vrai [[tournant]]. Son [[expertise technique approfondie]], sa créativité et sa proactivité ont été d’une valeur inestimable pour notre développement."
+                            "title": "[[Propriétaire]] du Pub Chicago   ",
+                            "text": "Travailler avec Miguel pour mon pub a été formidable. Il a créé un site web qui n'est pas seulement fonctionnel, mais qui capture aussi parfaitement l'ambiance de l'endroit, [[attirant plus de gens à nous rendre visite.]]"
                         },
                         "ko": {
-                            "title": "딩가 전무이사",
-                            "text": "Mark와의 협업은 진정한 [[게임 체인저]]였습니다. 그의 [[깊이 있는 기술 전문성]], 창의적인 문제 해결력, 능동적인 태도는 매우 소중한 자산이었습니다."
+                            "title": "[[시카고]] 펍 사장",
+                            "text": "제 펍 웹사이트 작업을 위해 Miguel과 함께 일한 것은 훌륭했습니다. 그는 기능적일 뿐만 아니라 그 장소의 분위기를 완벽하게 담아내는 웹사이트를 만들었고, [[더 많은 사람들이 우리를 방문하도록 유도합니다.]]"
                         }
                     }
                 },
@@ -240,20 +240,20 @@
                     "link": {"href": null, "tooltipString": null},
                     "locales": {
                         "en": {
-                            "title": "{{AI}} video editing",
-                            "text": "Learning to use AI tools to enhance my videos."
+                            "title": "Video editing with {{Premier pro}}",
+                            "text": "Learning to use Premiere Pro as a hobby."
                         },
                         "es": {
                             "title": "Edición de video con {{Premier pro}}",
                             "text": "Aprendiendo a usar preimer pro como hobby."
                         },
                         "fr": {
-                            "title": "Édition vidéo avec {{IA}}",
-                            "text": "Apprendre à utiliser des outils d'IA pour améliorer mes vidéos."
+                            "title": "Montage vidéo avec {{Premier pro}}",
+                            "text": "Apprendre à utiliser Premiere Pro comme loisir."
                         },
                         "ko": {
-                            "title": "{{AI}} 비디오 편집",
-                            "text": "AI 도구를 사용하여 내 영상을 향상시키는 방법 배우기."
+                            "title": "{{Premier pro}}로 비디오 편집 (영상 편집)",
+                            "text": "취미로 프리미어 프로를 배우고 있습니다."
                         }
                     }
                 },
@@ -265,8 +265,8 @@
                     "link": {"href": null, "tooltipString": null},
                     "locales": {
                         "en": {
-                            "title": "{{Arts}} & Illustration",
-                            "text": "Practicing digital art and exploring new styles."
+                            "title": "{{Art}} and Illustration",
+                            "text": "Practicing digital art."
                         },
                         "es": {
                             "title": "{{Arte}} y Ilustración",
@@ -274,7 +274,7 @@
                         },
                         "fr": {
                             "title": "{{Arts}} & Illustration",
-                            "text": "Pratiquer l'art numérique et explorer de nouveaux styles."
+                            "text": "Pratiquer l'art numérique."
                         },
                         "ko": {
                             "title": "{{예술}} 및 일러스트레이션",
@@ -290,20 +290,20 @@
                     "link": {"href": null, "tooltipString": null},
                     "locales": {
                         "en": {
-                            "title": "{{Investing}} & Finance",
-                            "text": "Learning the basics of stocks and personal finance."
+                            "title": "{{Backend}} Development",
+                            "text": "Learning backend to expand my knowledge."
                         },
                         "es": {
                             "title": "Desarrollo {{backend}}",
                             "text": "Aprendiendo backend para ampliar mis conocimientos."
                         },
                         "fr": {
-                            "title": "{{Investissement}} & Finance",
-                            "text": "Apprendre les bases des actions et des finances personnelles."
+                            "title": "Développement {{backend}} ",
+                            "text": "Apprendre le backend pour élargir mes connaissances."
                         },
                         "ko": {
-                            "title": "{{투자}} 및 재정 관리",
-                            "text": "주식과 개인 재정의 기초 배우기."
+                            "title": "{{backend}} 개발",
+                            "text": "지식을 넓히기 위해 백엔드를 배우고 있습니다."
                         }
                     }
                 },
@@ -315,20 +315,20 @@
                     "link": {"href": null, "tooltipString": null},
                     "locales": {
                         "en": {
-                            "title": "{{UX}} design",
-                            "text": "Studying user experience principles."
+                            "title": "{{3D}} Design",
+                            "text": "Studying the principles of 3D modeling and design."
                         },
                         "es": {
                             "title": "Diseño {{3D}}",
                             "text": "Estudiando los principios del modelado y diseño 3D"
                         },
                         "fr": {
-                            "title": "Conception {{UX}}",
-                            "text": "Étudier les principes de l'expérience utilisateur."
+                            "title": "Design {{3D}}",
+                            "text": "Étudier les principes de la modélisation et du design 3D."
                         },
                         "ko": {
-                            "title": "{{UX}} 디자인",
-                            "text": "사용자 경험 원칙을 공부하기."
+                            "title": "{{3D}} 디자인",
+                            "text": "3D 모델링 및 디자인의 원리를 공부하고 있습니다."
                         }
                     }
                 },
@@ -366,20 +366,20 @@
                     "link": {"href": null, "tooltipString": null},
                     "locales": {
                         "en": {
-                            "title": "Playing {{drums}}",
-                            "text": "Exploring different genres and improving my skills."
+                            "title": "{{Music}} Editing",
+                            "text": "Learning to use and edit in FL Studio."
                         },
                         "es": {
-                            "title": " Edicion de {{Música}}",
+                            "title": "Edicion de {{Música}}",
                             "text": "Aprendiendo a usar y editar en FL Studio."
                         },
                         "fr": {
-                            "title": "Jouer de la {{batterie}}",
-                            "text": "Explorer différents genres et améliorer mes compétences."
+                            "title": "Édition de {{Musique}}",
+                            "text": "Apprendre à utiliser et à éditer sur FL Studio."
                         },
                         "ko": {
-                            "title": "{{드럼}} 연주",
-                            "text": "다양한 장르를 탐험하고 기술을 향상시키기."
+                            "title": "{{음악}} 편집",
+                            "text": "FL 스튜디오 사용 및 편집을 배우고 있습니다."
                         }
                     }
                 }

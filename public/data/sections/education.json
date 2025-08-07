@@ -47,11 +47,11 @@
                     "dateEnd": {"year": 2017, "month": 6},
                     "locales": {
                         "en": {
-                            "title": "PHP Development {{Nanodegree}}",
-                            "province": "",
-                            "country": "Remote",
-                            "institution": "Udacity",
-                            "text": "Successfully completed an intensive Nanodegree program with a strong emphasis on [[PHP development]], where I gained comprehensive, hands-on experience in building dynamic and scalable web applications.",
+                            "title": "{{Arts}} Baccalaureate",
+                            "province": "Tomelloso Ciudad Real",
+                            "country": "Spain",
+                            "institution": "Antonio López School of Arts",
+                            "text": "I successfully completed the Arts Baccalaureate, a program focused on [[creative development, visual expression, and critical thinking]]. During this period, I acquired a solid foundation in disciplines such as artistic drawing, art history, and plastic techniques, developing fundamental skills for visual communication, aesthetic sensibility, and creative problem-solving.",
                             "list": [],
                             "tags": []
                         },
@@ -64,19 +64,19 @@
                             "list": []
                         },
                         "fr": {
-                            "title": "Développement PHP {{Nanodegree}}",
-                            "province": "",
-                            "country": "À distance",
-                            "institution": "Udacity",
-                            "text": "J'ai terminé avec succès un programme Nanodegree intensif axé sur [[PHP development]], au cours duquel j'ai acquis une expérience pratique approfondie dans la création d'applications web dynamiques et évolutives.",
+                            "title": "{{Baccalauréat}} en arts",
+                            "province": "Tomelloso Ciudad Real",
+                            "country": "Espagne",
+                            "institution": "École des Arts Antonio López",
+                            "text": "J'ai terminé avec succès le baccalauréat en arts, une formation axée sur le [[développement créatif, l'expression visuelle et la pensée critique]]. Au cours de cette période, j'ai acquis une base solide dans des disciplines telles que le dessin artistique, l'histoire de l'art et les techniques plastiques, en développant des compétences fondamentales pour la communication visuelle, la sensibilité esthétique et la résolution créative de problèmes.",
                             "list": []
                         },
                         "ko": {
-                            "title": "PHP 개발 {{Nanodegree}}",
-                            "province": "",
-                            "country": "원격",
-                            "institution": "Udacity",
-                            "text": "[[PHP development]]에 중점을 둔 집중형 나노디그리 프로그램을 성공적으로 수료했으며, 동적이고 확장 가능한 웹 애플리케이션을 구축하는 데 있어 폭넓고 실용적인 경험을 쌓았습니다.",
+                            "title": "{{예술}} 바칼로레아",
+                            "province": "Tomelloso Ciudad Real",
+                            "country": "스페인",
+                            "institution": "안토니오 로페즈 미술 학교",
+                            "text": "저는 예술 바칼로레아 과정을 성공적으로 마쳤습니다. 이 교육은 [[창의적 개발, 시각적 표현, 비판적 사고]]에 초점을 맞춘 과정입니다. 이 기간 동안 예술 드로잉, 미술사 및 조형 기법과 같은 분야에서 탄탄한 기반을 쌓았으며, 시각 커뮤니케이션, 미적 감수성 및 창의적인 문제 해결을 위한 기초 능력을 개발했습니다.",
                             "list": []
                         }
                     }
@@ -90,11 +90,11 @@
                     "dateEnd": {"year": 2018, "month": 6},
                     "locales": {
                         "en": {
-                            "title": "{{Gráfica}} Publicitaria",
-                            "province": "Tomelloso Ciudad Real",
-                            "country": "España",
-                            "institution": "Escuiela de Artes Antonio López",
-                            "text": "Earned a [[Bachelor's degree in Computer Science]], focusing on algorithms, data structures, software engineering, and web development. Gained hands-on experience through various programming projects, coding boot camps, and many collaborative team-based software development activities.",
+                            "title": "{{Advertising}} Graphics",
+                            "province": "Tomelloso-Ciudad Real",
+                            "country": "Spain",
+                            "institution": "Antonio López School of Arts",
+                            "text": "I successfully completed my studies in [[Advertising Graphics]], a specialized training in visual communication and design applied to commercial and creative environments. Throughout the program, I acquired key competencies in graphic design, visual composition, branding, and print and digital production, developing practical projects aimed at creating effective and aesthetically appealing advertising pieces.",
                             "list": [],
                             "tags": []
                         },
@@ -108,20 +108,20 @@
                             "tags": []
                         },
                         "fr": {
-                            "title": "{{Licence}} en informatique",
-                            "province": "Massachusetts",
-                            "country": "États-Unis",
-                            "institution": "MIT",
-                            "text": "J'ai obtenu une [[licence en informatique]], avec un accent sur les algorithmes, les structures de données, l’ingénierie logicielle et le développement web. J'ai acquis une solide expérience pratique grâce à divers projets de programmation, des bootcamps de code et des activités collaboratives en équipe.",
+                            "title": "{{Graphisme}} publicitaire",
+                            "province": "Tomelloso Ciudad Real",
+                            "country": "Espagne",
+                            "institution": "École des Arts Antonio López",
+                            "text": "J'ai terminé avec succès mes études en [[Graphisme publicitaire]], une formation spécialisée dans la communication visuelle et le design appliqués à des environnements commerciaux et créatifs. Tout au long du programme, j'ai acquis des compétences clés en design graphique, composition visuelle, branding et production imprimée et numérique, en développant des projets pratiques orientés vers la création de pièces publicitaires efficaces et esthétiquement attrayantes.",
                             "list": [],
                             "tags": []
                         },
                         "ko": {
-                            "title": "컴퓨터 과학 {{학사}}",
-                            "province": "매사추세츠",
-                            "country": "미국",
-                            "institution": "MIT",
-                            "text": "알고리즘, 자료 구조, 소프트웨어 공학, 웹 개발에 중점을 둔 [[컴퓨터 과학 학사 학위]]를 취득하였습니다. 다양한 프로그래밍 프로젝트, 코딩 부트캠프, 그리고 팀 기반의 협업 활동을 통해 실무 경험을 쌓았습니다.",
+                            "title": "{{광고}} 그래픽",
+                            "province": "Tomelloso Ciudad Real",
+                            "country": "스페인",
+                            "institution": "안토니오 로페즈 미술 학교",
+                            "text": "저는 [[광고 그래픽]] 과정을 성공적으로 마쳤습니다. 이 과정은 상업적 및 창의적 환경에 적용되는 시각 커뮤니케이션 및 디자인에 특화된 교육이었습니다. 이 과정을 통해 그래픽 디자인, 시각적 구성, 브랜딩, 인쇄 및 디지털 제작과 같은 핵심 역량을 습득하고, 효과적이고 미적으로 매력적인 광고물을 만드는 데 중점을 둔 실용적인 프로젝트를 개발했습니다.",
                             "list": [],
                             "tags": []
                         }
@@ -136,24 +136,27 @@
                     "dateEnd": {"year": 2020, "month": 6},
                     "locales": {
                         "en": {
-                            "title": "{{Master's}} in Artificial Intelligence",
-                            "province": "",
-                            "country": "France",
-                            "institution": "University of Paris",
-                            "text": "Completed a comprehensive Master's program focused on [[cutting-edge AI topics]], including:",
+                            "title": "{{B2}} English",
+                            "province": "Tomelloso Ciudad Real",
+                            "country": "Spain",
+                            "institution": "CEAT Study Center",
+                            "text": "I obtained a B2 level in English at the CEAT study center, which certifies a solid proficiency in the use of the language in [[everyday, academic, and professional contexts]].Includdin:",
                             "list": [
-                                "Machine Learning",
-                                "Natural Language Processing (NLP)",
-                                "Neural Networks"
+                                "Comprehension of oral and written texts of medium-high difficulty.",
+                                "Production of coherent and well-structured texts.",
+                                "Fluent and precise oral expression in conversations and presentations.",
+                                "Appropriate use of complex grammatical structures and varied vocabulary.",
+                                "Ability to argue, debate, and write with clarity in English."
                             ],
                             "tags": [
-                                "Neural Networks",
-                                "Machine Learning"
+                                "Upper-intermediate English",
+                                "B2 Level",
+                                "Academic English"
                             ]
                         },
                         "es": {
                             "title": "{{B2}} Inglés",
-                            "province": "Tomelloso-Ciudad Real",
+                            "province": "Tomelloso Ciudad Real",
                             "country": "España",
                             "institution": "Centro de estudios CEAT",
                             "text": "Obtuve el nivel B2 de inglés en el centro de estudios CEAT, lo que avala una competencia sólida en el uso del idioma en [[contextos cotidianos, académicos y laborales]]., incluyendo:",
@@ -171,40 +174,46 @@
                             ]
                         },
                         "fr": {
-                            "title": "{{Master}} en Intelligence Artificielle",
-                            "province": "",
-                            "country": "France",
-                            "institution": "Université de Paris",
-                            "text": "J'ai terminé un programme de master complet axé sur [[les sujets avancés en IA]], notamment :",
+                            "title": "{{B2}} Anglais",
+                            "province": "Tomelloso Ciudad Real",
+                            "country": "Espagne",
+                            "institution": "Centre d'études CEAT",
+                            "text": "'ai obtenu le niveau B2 en anglais au centre d'études CEAT, ce qui atteste d'une compétence solide dans l'utilisation de la langue dans des [[contextes quotidiens, académiques et professionnels]]., y compris :",
                             "list": [
-                                "Apprentissage automatique",
-                                "Traitement du langage naturel (NLP)",
-                                "Réseaux de neurones"
+                                "Compréhension de textes oraux et écrits de difficulté moyenne-haute.",
+                                "Production de textes cohérents et bien structurés.",
+                                "Expression orale fluide et précise lors de conversations et de présentations.",
+                                "Utilisation appropriée de structures grammaticales complexes et d'un vocabulaire varié.",
+                                "Capacité à argumenter, débattre et rédiger clairement en anglais."
                             ],
                             "tags": [
-                                "Réseaux de neurones",
-                                "Apprentissage automatique"
+                                "Anglais de niveau intermédiaire-supérieur",
+                                "Niveau B2",
+                                "Anglais académique"
                             ]
                         },
                         "ko": {
-                            "title": "인공지능 {{석사}}",
-                            "province": "",
-                            "country": "프랑스",
-                            "institution": "파리 대학교",
-                            "text": "[[최첨단 인공지능 주제]]를 중심으로 한 종합적인 석사 과정을 수료하였으며, 주요 내용은 다음과 같습니다:",
+                            "title": "{{B2}} 영어",
+                            "province": "Tomelloso-Ciudad Real",
+                            "country": "스페인",
+                            "institution": "CEAT 학습 센터",
+                            "text": "CEAT 학습 센터에서 B2 레벨의 영어 실력을 취득했습니다. 이는 [[일상, 학업, 업무 상황]]에서 언어를 능숙하게 구사할 수 있음을 증명합니다.:",
                             "list": [
-                                "머신러닝",
-                                "자연어 처리 (NLP)",
-                                "신경망"
+                                "중상급 난이도의 구두 및 서면 텍스트 이해.",
+                                "일관성 있고 잘 구조화된 텍스트 작성.",
+                                "대화 및 발표에서 유창하고 정확한 구두 표현.",
+                                "복잡한 문법 구조와 다양한 어휘의 적절한 사용.",
+                                "영어로 명확하게 주장하고, 토론하며, 글을 쓸 수 있는 능력."
                             ],
                             "tags": [
-                                "신경망",
-                                "머신러닝"
+                                "중상급 영어",
+                                "B2 레벨",
+                                "학술 영어"
                             ]
                         }
                     }
                 },
-                {
+                {   
                     "id": 4,
                     "img": "images/pictures/logos_de_educacion/logo-ccc-2019.jpg",
                     "faIcon": "",
@@ -213,18 +222,21 @@
                     "dateEnd": {"year": 2023, "month": 6},
                     "locales": {
                         "en": {
-                            "title": "{{PhD}} in Computer Science",
-                            "province": "Massachusetts",
-                            "country": "US",
-                            "institution": "Harvard University",
-                            "text": "Currently pursuing a PhD with a focus on [[deep learning]] and its real-world applications, particularly in:",
+                            "title": "{{Higher-Level Cycle}} in Web Application Development (DAW)",
+                            "province": "Tomelloso Ciudad Real",
+                            "country": "Spain",
+                            "institution": "CCC",
+                            "text": "I completed a Higher-level Vocational Training program in Web Application Development, a technical training specialized in the creation, maintenance, and deployment of modern web applications. During this training, I acquired skills such as:",
                             "list": [
-                                "Computer Vision",
-                                "Innovative AI research",
-                                "Developing [[novel algorithms]] for image recognition"
+                                "Programming in languages such as HTML, CSS, JavaScript, PHP, and SQL.",
+                                "Front-end and back-end development for web applications.",
+                                "Designing and consuming REST APIs.",
+                                "Management of relational databases (MySQL, MariaDB).",
+                                "Version control with Git.",
+                                "Deployment and maintenance of applications on servers."
                             ],
                             "tags": [
-                                "Deep Learning", "Computer Vision", "AI Research", "Algorithms"
+                                "Web Development", "Higher-level Vocational Training (DAW)", "HTML", "CSS", "JavaScript", "PHP", "MySQL", "Git"
                             ]
                         },
                         "es": {
@@ -252,30 +264,36 @@
                         ]
                         },
                         "fr": {
-                            "title": "{{Doctorat}} en informatique",
-                            "province": "Massachusetts",
-                            "country": "États-Unis",
-                            "institution": "Université Harvard",
-                            "text": "Actuellement en doctorat, avec une spécialisation en [[deep learning]] et ses applications concrètes, notamment dans :",
+                            "title": "{{Cycle supérieur}} en Développement d'Applications web (DAW)",
+                            "province": "Tomelloso Ciudad Real",
+                            "country": "Espagne",
+                            "institution": "CCC",
+                            "text": "J'ai complété un cycle de formation professionnelle supérieure en Développement d'Applications Web, une formation technique spécialisée dans la création, la maintenance et le déploiement d'applications web modernes.Au cours de cette formation, j'ai acquis des compétences telles que :",
                             "list": [
-                                "La vision par ordinateur",
-                                "La recherche innovante en IA",
-                                "Le développement de [[nouveaux algorithmes]] pour la reconnaissance d’images"
+                                "Programmation dans des langages tels que HTML, CSS, JavaScript, PHP et SQL.",
+                                "Développement front-end et back-end d'applications web.",
+                                "Conception et consommation d'APIs REST.",
+                                "Gestion de bases de données relationnelles (MySQL, MariaDB).",
+                                "Contrôle de version avec Git.",
+                                "Déploiement et maintenance d'applications sur des serveurs."
                             ],
-                            "tags": ["Apprentissage profond", "Vision par ordinateur", "Recherche en IA", "Algorithmes"]
+                            "tags": ["Développement web", "Cycle supérieur (DAW)", "HTML", "CSS", "JavaScript", "PHP", "MySQL", "Git"]
                         },
                         "ko": {
-                            "title": "컴퓨터 과학 {{박사}}",
-                            "province": "매사추세츠",
-                            "country": "미국",
-                            "institution": "하버드 대학교",
-                            "text": "[[딥러닝]] 및 그 실생활 적용에 중점을 둔 박사 과정을 진행 중이며, 주요 연구 분야는 다음과 같습니다:",
+                            "title": "{{고등 직업 훈련}} 웹 애플리케이션 개발 (DAW)",
+                            "province": "Tomelloso Ciudad Real",
+                            "country": "스페인",
+                            "institution": "CCC",
+                            "text": "현대적인 웹 애플리케이션의 생성, 유지보수 및 배포에 특화된 고등 직업 훈련인 웹 애플리케이션 개발 과정을 수료했습니다. 이 교육을 통해 다음과 같은 역량을 습득했습니다.",
                             "list": [
-                                "컴퓨터 비전",
-                                "혁신적인 인공지능 연구",
-                                "이미지 인식을 위한 새로운 알고리즘 개발"
+                                "HTML, CSS, JavaScript, PHP, SQL와 같은 언어로 프로그래밍.",
+                                "웹 애플리케이션의 프론트엔드 및 백엔드 개발.",
+                                "REST API 설계 및 사용.",
+                                "관계형 데이터베이스 관리 (MySQL, MariaDB).",
+                                "Git을 활용한 버전 관리.",
+                                "서버에 애플리케이션 배포 및 유지보수."
                             ],
-                            "tags": ["딥러닝", "컴퓨터 비전", "AI 연구", "알고리즘"]
+                            "tags": ["웹 개발", "고등 직업 훈련 (DAW)", "HTML", "CSS", "JavaScript", "PHP", "MySQL", "Git"]
                         }
                     }
                 }
