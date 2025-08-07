@@ -52,18 +52,20 @@
                     "link": {"href": "https://www.linuxfoundation.org/", "tooltipString": "see_certification"},
                     "locales": {
                         "en": {
-                            "title": "The {{Linux Foundation}}",
-                            "text": "Certified Kubernetes Administrator (CKA)"
+                            "title": "Electronic {{Invoicing}}",
+                            "text": "Knowledge of electronic invoicing"
                         },
                         "es": {
                              "title": "Facturación {{Electrónica}} ",
                             "text": "Conocimientos para la facturación electrónica"
                         },
                         "fr": {
-                            "text": "Administrateur Kubernetes Certifié (CKA)"
+                            "title": "Facturación {{Electrónica}} ",
+                            "text": "Connaissances en facturation électronique"
                         },
                         "ko": {
-                            "text": "Kubernetes 인증 관리자 (CKA)"
+                            "title": "전자 {{청구}}",
+                            "text": "전자 청구에 대한 지식"
                         }
                     }
                 },
@@ -77,18 +79,20 @@
                     "link": {"href": "https://www.aws.com/", "tooltipString": "see_certification"},
                     "locales": {
                         "en": {
-                            "title": "{{título Bachiller}} Artes",
-                            "text": "AWS Certified Solutions Architect – Associate"
+                            "title": "{{High School Diploma}} in Arts",
+                            "text": "Successful completion of secondary education"
                         },
                         "es": {
                              "title": "{{título Bachiller}} Artes",
                             "text": "Certificacion exitosa de educación secundaria"
                         },
                         "fr": {
-                            "text": "Architecte de Solutions Certifié AWS - Associé"
+                            "title": "{{Baccalauréat}} en Arts",
+                            "text": "Achèvement réussi de l'enseignement secondaire"
                         },
                         "ko": {
-                            "text": "AWS 공인 솔루션 아키텍트 - 준회원"
+                            "title": "{{고등학교 졸업장}} (예술)",
+                            "text": "성공적인 중등 교육 이수"
                         }
                     }
                 },
@@ -102,18 +106,20 @@
                     "link": {"href": "https://www.oracle.com/", "tooltipString": "see_certification"},
                     "locales": {
                         "en": {
-                            "title": "{{Oracle}}",
-                            "text": "Certified Java Developer"
+                            "title": "{{B2 English}} Professional Certificate",
+                            "text": "B2-level language certification"
                         },
                         "es": {
                             "title": "Certificado profesional {{Ingles B2}}",
                             "text": "Certificacion linguistica de nivel B2"
                         },
                         "fr": {
-                            "text": "Développeur Java Certifié"
+                            "title": "Certificat professionnel {{Anglais B2}}",
+                            "text": "Certification linguistique de niveau B2"
                         },
                         "ko": {
-                            "text": "공인 자바 개발자"
+                            "title": "{{B2 영어}} 전문 자격증",
+                            "text": "B2 수준 언어 자격증"
                         }
                     }
                 },
@@ -127,8 +133,8 @@
                     "link": {"href": "https://www.mongodb.com/", "tooltipString": "see_certification"},
                     "locales": {
                         "en": {
-                            "title": "{{MongoDB}} University",
-                            "text": "MongoDB Certified Developer"
+                            "title": "{{Senior Technician}} in Web Application Development (DAW)",
+                            "text": "Professional training in developing web applications"
                         },
                         
                         "es": {
@@ -136,10 +142,12 @@
                             "text": "Capacitación profesional en desarrollar aplicaciones web"
                         },
                         "fr": {
-                            "text": "Développeur Certifié MongoDB"
+                            "title": "Technicien supérieur en Développement d'Applications Web (DAW)",
+                            "text": "Formation professionnelle en développement d'applications web"
                         },
                         "ko": {
-                            "text": "MongoDB 공인 개발자"
+                            "title": "웹 애플리케이션 개발 (DAW) {{고급 기술자}}",
+                            "text": "웹 애플리케이션 개발 전문 교육"
                         }
                     }
                 }
@@ -174,11 +182,11 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "{{Best Graduation Project}} – Backend Optimization",
-                            "province": "Massachusetts",
-                            "country": "US",
-                            "institution": "MIT",
-                            "text": "Awarded for outstanding performance in optimizing backend systems during my final year project where I improved the efficiency of data processing by 30%. I have also received a certificate of recognition for this achievement."
+                            "title": "{{Web collaboration on}} – Trading",
+                            "province": "Spain - Portugal",
+                            "country": "Spain - Portugal",
+                            "institution": "React",
+                            "text": "Alongside a fellow React developer, I developed a web platform for traders focused on financial data analysis and real-time market visualization. The main objective was to create an intuitive tool that would allow users to track their assets and make more informed decisions."
                         },
                         "es": {
                             "title": "{{Colaboracion web sobre}} – Trading",
@@ -188,18 +196,18 @@
                             "text": "Junto a un colega programador de React, desarrollé una plataforma web para traders centrada en el análisis de datos financieros y la visualización de mercado en tiempo real. El objetivo principal fue crear una herramienta intuitiva que permitiera a los usuarios seguir sus activos y tomar decisiones más informadas."
                         },
                         "fr": {
-                            "title": "{{Meilleur Projet de Fin d'Études}} – Optimisation Backend",
-                            "province": "Massachusetts",
-                            "country": "États-Unis",
-                            "institution": "MIT",
-                            "text": "Récompensé pour une performance exceptionnelle dans l'optimisation des systèmes backend lors de mon projet de fin d'études, où j'ai amélioré l'efficacité du traitement des données de 30%. J'ai également reçu un certificat de reconnaissance pour cette réalisation."
+                            "title": "{{Collaboration web sur}} – Trading",
+                            "province": "Espagne - Portugal",
+                            "country": "Espagne - Portugal",
+                            "institution": "React",
+                            "text": "Avec un collègue développeur React, j'ai développé une plateforme web pour les traders, centrée sur l'analyse de données financières et la visualisation du marché en temps réel. L'objectif principal était de créer un outil intuitif qui permettrait aux utilisateurs de suivre leurs actifs et de prendre des décisions plus éclairées."
                         },
                         "ko": {
-                            "title": "{{최우수 졸업 프로젝트}} – 백엔드 최적화",
-                            "province": "매사추세츠",
-                            "country": "미국",
-                            "institution": "MIT",
-                            "text": "졸업 프로젝트에서 백엔드 시스템 최적화로 뛰어난 성과를 인정받아 수상하였으며, 데이터 처리 효율을 30% 향상시켰습니다. 이 성과에 대한 인증서도 받았습니다."
+                            "title": "{{웹 협업 프로젝트}} – 트레이딩",
+                            "province": "스페인 - 포르투갈",
+                            "country": "스페인 - 포르투갈",
+                            "institution": "리액트",
+                            "text": "동료 React 개발자와 함께 금융 데이터 분석 및 실시간 시장 시각화에 중점을 둔 트레이더용 웹 플랫폼을 개발했습니다. 주요 목표는 사용자가 자산을 추적하고 더 정보에 입각한 결정을 내릴 수 있도록 돕는 직관적인 도구를 만드는 것이었습니다."
                         }
                     }
                 },
@@ -218,15 +226,15 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "{{Top Contributor}} – Open Source Linux Foundation Project",
-                            "province": "",
-                            "country": "",
-                            "institution": "Linux Foundation",
-                            "text": "Recognized as a top contributor for my significant contributions to an open source project under the Linux Foundation, where I implemented key features and resolved critical bugs, enhancing the project's stability and performance. My contributions involved: ",
+                            "title": "{{WordPress web collaboration on}} – A travel company",
+                            "province": "Spain - Portugal",
+                            "country": "Spain - Portugal",
+                            "institution": "WordPress",
+                            "text": "Alongside a fellow React developer, I collaborated on creating a travel website specializing in flights and airlines. The project's goal was to offer users a visually attractive and interactive platform with relevant information on destinations, routes, and offers. My contributions included: ",
                             "list": [
-                                "Implementing a new feature that improved user experience by 25%",
-                                "Resolving over 50 critical bugs that enhanced system reliability",
-                                "Contributing to the documentation and community support"
+                                "As a WordPress specialist, I was in charge of the complete site architecture.",
+                                "selection and configuration of the main theme.", 
+                                "customization of the site structure and the integration of key plugins for content management and SEO optimization."
                             ]
                         },
                         "es": {
@@ -242,27 +250,27 @@
                             ]
                         },
                         "fr": {
-                            "title": "{{Contributeur Principal}} – Projet Open Source de la Fondation Linux",
-                            "province": "",
-                            "country": "",
+                            "title": "{{Collaboration web Wordpress sur}} – Une entreprise de voyages",
+                            "province": "Espagne - Portugal",
+                            "country": "Espagne - Portugal",
                             "institution": "Fondation Linux",
-                            "text": "Reconnu comme un contributeur principal pour mes contributions significatives à un projet open source sous la Fondation Linux, où j'ai implémenté des fonctionnalités clés et résolu des bugs critiques, améliorant la stabilité et les performances du projet. Mes contributions ont inclus : ",
+                            "text": "Avec un collègue développeur React, j'ai collaboré à la création d'un site web de voyages spécialisé dans les vols et les compagnies aériennes. L'objectif du projet était d'offrir aux utilisateurs une plateforme visuellement attrayante et interactive avec des informations pertinentes sur les destinations, les itinéraires et les offres. Mes contributions ont inclus :",
                             "list": [
-                                "Implémentation d'une nouvelle fonctionnalité qui a amélioré l'expérience utilisateur de 25%",
-                                "Résolution de plus de 50 bugs critiques qui ont amélioré la fiabilité du système",
-                                "Contribution à la documentation et au support communautaire"
+                                "En tant que spécialiste WordPress, j'ai été en charge de l'architecture complète du site.", 
+                               "la sélection et la configuration du thème principal.", 
+                                "la personnalisation de la structure du site et l'intégration de plugins clés pour la gestion de contenu et l'optimisation SEO."
                             ]
                         },
                         "ko": {
-                            "title": "{{최고 기여자}} – 오픈 소스 리눅스 재단 프로젝트",
-                            "province": "",
-                            "country": "",
-                            "institution": "리눅스 재단",
-                            "text": "리눅스 재단의 오픈 소스 프로젝트에 대한 중요한 기여로 최고 기여자로 인정받았으며, 주요 기능을 구현하고 중요한 버그를 해결하여 프로젝트의 안정성과 성능을 향상시켰습니다. 제 기여 내용은 다음과 같습니다: ",
+                            "title": "{{워드프레스 웹 협업 프로젝트}} – 여행사",
+                            "province": "스페인 - 포르투갈",
+                            "country": "스페인 - 포르투갈",
+                            "institution": "워드프레스",
+                            "text": "React 개발자 동료와 함께 항공편 및 항공사를 전문으로 하는 여행 웹사이트 제작에 협력했습니다. 프로젝트의 목표는 목적지, 경로 및 제안에 대한 관련 정보를 담아 사용자에게 시각적으로 매력적이고 인터랙티브한 플랫폼을 제공하는 것이었습니다. 저의 기여는 다음과 같습니다: ",
                             "list": [
-                                "사용자 경험을 25% 향상시킨 새로운 기능 구현",
-                                "시스템 신뢰성을 향상시킨 50개 이상의 중요한 버그 해결",
-                                "문서화 및 커뮤니티 지원에 기여"
+                                "워드프레스 전문가로서, 저는 전체 사이트 아키텍처를 담당했습니다.",
+                                 "메인 테마의 선택 및 구성.", 
+                                "사이트 구조 사용자 정의 및 콘텐츠 관리와 SEO 최적화를 위한 핵심 플러그인 통합."
                             ]
                         }
                     }

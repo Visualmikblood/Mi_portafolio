@@ -457,8 +457,8 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "Soccer Analytics",
-                            "text": "An AI-powered sports analytics platform built with <b>Python</b> and <b>TensorFlow</b>, offering detailed soccer <b>predictions</b> and team management tools.",
+                            "title": "Zenbushidokarate (Wordpress)",
+                            "text": "Original website for <b>artes marciales desarrollada con WordPress</b>. It features a responsive design and information about classes, schedules, and instructors.",
                             "tags": ["AI", "Prediction", "Soccer"]
                         },
                         "es": {
@@ -467,13 +467,13 @@
                             "tags": ["IA", "Predicción", "Fútbol"]
                         },
                         "fr": {
-                            "title": "Soccer Analytics",
-                            "text": "Une plateforme d'analytique sportive alimentée par IA construite avec <b>Python</b> et <b>TensorFlow</b>, offrant des <b>prédictions</b> détaillées pour le football et des outils de gestion d'équipe.",
+                            "title": "Zenbushidokarate (Wordpress)",
+                            "text": "Site web original de <b>artes marciales desarrollada con WordPress</b>. Il présente un design responsive et des informations sur les cours, les horaires et les instructeurs.",
                             "tags": ["IA", "Prédiction", "Football"]
                         },
                         "ko": {
-                            "title": "Soccer Analytics",
-                            "text": "<b>Python</b> 및 <b>TensorFlow</b>로 구축된 AI 기반 스포츠 분석 플랫폼으로, 축구에 대한 <b>예측</b> 및 팀 관리 도구를 제공합니다.",
+                            "title": "Zenbushidokarate (Wordpress)",
+                            "text": "<b>artes marciales desarrollada con WordPress</b>의 오리지널 웹사이트입니다. 반응형 디자인이며 수업, 시간표 및 강사에 대한 정보가 포함되어 있습니다.",
                             "tags": ["AI", "예측", "축구"]
                         }
                     }
@@ -498,9 +498,9 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "QuickDrop",
-                            "text": "A cross-platform delivery app built with <b>React Native</b> and a <b>Node.js backend</b>, featuring <b>real-time tracking</b> and seamless integration with multiple platforms.",
-                            "tags": ["React Native", "Delivery", "Real-Time Tracking"]
+                            "title": "Fighting video game",
+                            "text": "A functional replica of a fighting video game inspired by Street Fighter, developed with HTML, CSS, JavaScript, and React. It features basic gameplay and a design faithful to the classic style.",
+                            "tags": ["Video game", "Street Fighter", "Fighting game"]
                         },
                         "es": {
                             "title": "Video juego de lucha",
@@ -508,14 +508,14 @@
                             "tags": ["Videojuego", "Street Fighter", "Juego de lucha"]
                         },
                         "fr": {
-                            "title": "QuickDrop",
-                            "text": "Une application de livraison multiplateforme construite avec <b>React Native</b> et un backend <b>Node.js</b>, avec <b>suivi en temps réel</b> et intégration fluide sur plusieurs plateformes.",
-                            "tags": ["React Native", "Livraison", "Suivi"]
+                            "title": "Jeu vidéo de combat",
+                            "text": "Une réplique fonctionnelle d'un jeu vidéo de combat inspiré de Street Fighter, développée avec HTML, CSS, JavaScript et React. Il présente un gameplay de base et un design fidèle au style classique.",
+                            "tags": ["Jeu vidéo", "Street Fighter", "Jeu de combat"]
                         },
                         "ko": {
-                            "title": "QuickDrop",
-                            "text": "<b>React Native</b>와 <b>Node.js</b> 백엔드로 구축된 크로스플랫폼 배송 앱으로, <b>실시간 추적</b> 및 여러 플랫폼과의 원활한 통합을 제공합니다.",
-                            "tags": ["React Native", "배송", "실시간 추적"]
+                            "title": "격투 비디오 게임",
+                            "text": "**스트리트 파이터(Street Fighter)**에서 영감을 받아 HTML, CSS, JavaScript 및 React로 개발된 격투 비디오 게임의 기능적 복제품입니다. 기본적인 게임 플레이와 고전적인 스타일에 충실한 디자인을 특징으로 합니다.",
+                            "tags": ["비디오 게임", "스트리트 파이터", "격투 게임"]
                         }
                     }
                 },
@@ -543,9 +543,9 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "QuickDrop",
-                            "text": "A cross-platform delivery app built with <b>React Native</b> and a <b>Node.js backend</b>, featuring <b>real-time tracking</b> and seamless integration with multiple platforms.",
-                            "tags": ["React Native", "Delivery", "Real-Time Tracking"]
+                            "title": "Bolita video game",
+                            "text": "An arcade video game with a neon aesthetic, developed using JavaScript and Canvas. The goal is to bounce a ball between rotating rings while avoiding the exits.",
+                            "tags": ["Video game", "Arcade", "Interactivity"]
                         },
                         "es": {
                             "title": "Videojuego bolita",
@@ -553,14 +553,14 @@
                             "tags": ["Videojuego", "Arcade", "Interactividad"]
                         },
                         "fr": {
-                            "title": "QuickDrop",
-                            "text": "Une application de livraison multiplateforme construite avec <b>React Native</b> et un backend <b>Node.js</b>, avec <b>suivi en temps réel</b> et intégration fluide sur plusieurs plateformes.",
-                            "tags": ["React Native", "Livraison", "Suivi"]
+                            "title": "Jeu vidéo Bolita",
+                            "text": "Un jeu vidéo d'arcade à l'esthétique néon, développé avec JavaScript et Canvas. Le but est de faire rebondir une balle entre des anneaux rotatifs en évitant les sorties.",
+                            "tags": ["Jeu vidéo", "Arcade", "Interactivité"]
                         },
                         "ko": {
-                            "title": "QuickDrop",
-                            "text": "<b>React Native</b>와 <b>Node.js</b> 백엔드로 구축된 크로스플랫폼 배송 앱으로, <b>실시간 추적</b> 및 여러 플랫폼과의 원활한 통합을 제공합니다.",
-                            "tags": ["React Native", "배송", "실시간 추적"]
+                            "title": "볼리타 비디오 게임",
+                            "text": "**자바스크립트(JavaScript)**와 **캔버스(Canvas)**로 개발된 네온 미학의 아케이드 비디오 게임입니다. 목표는 회전하는 링 사이에서 공을 튕기면서 출구를 피하는 것입니다.",
+                            "tags": ["비디오 게임", "아케이드", "상호작용"]
                         }
                     }
                 }

@@ -217,11 +217,11 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "Relocating to {{California!}}",
-                            "province": "Ontario",
-                            "country": "Canada",
+                            "title": "Trip to {{Portugal!}}",
+                            "province": "Porto",
+                            "country": "Spain",
                             "institution": "",
-                            "text": "I’ve recently made the move to California, USA, to explore new opportunities, both professionally and personally. I’m looking forward to discovering what this vibrant state has to offer and embracing all the challenges and experiences that come with this new chapter in my life. Excited for what’s ahead! Stay tuned for updates on my journey and the adventures that await in the Golden State!"
+                            "text": "For five days, I had the opportunity to enjoy a vacation in Porto, Portugal, a city that combines history, beauty, and authenticity. I strolled through its cobbled streets, discovered the charm of the old town, and took in the breathtaking views from the Dom Luís I Bridge. <br><br>I tried its delicious cuisine, with typical dishes like grilled cod and francesinha, not to mention the famous pastéis de nata. I also walked along the Douro River, visited traditional wineries, and let myself be carried away by the unique atmosphere this city offers. <br><br>I found Porto to be a perfect destination to disconnect, soak up some culture, and return with new ideas and inspiration. Without a doubt, it's a trip I will remember with great fondness."
                         },
                         "es": {
                             "title": "Viaje a {{Portugal!}}",
@@ -231,18 +231,18 @@
                             "text": "Durante cinco días, tuve la oportunidad de disfrutar de unas vacaciones en Oporto, Portugal, una ciudad que combina historia, belleza y autenticidad. Paseé por sus calles empedradas, descubrí el encanto del casco antiguo y contemplé las impresionantes vistas desde el Puente Don Luis I. <br><br>Probé su deliciosa gastronomía, con platos típicos como el bacalao a la brasa y la francesinha, sin olvidar los famosos pasteles de nata. También recorrí la ribera del Duero, visité bodegas tradicionales y me dejé llevar por la atmósfera única que ofrece esta ciudad.<br><br> Oporto me pareció un destino perfecto para desconectar, empaparme de cultura y volver con nuevas ideas e inspiración. Sin duda, un viaje que recordaré con especial cariño."
                         },
                         "fr": {
-                            "title": "Déménagement en {{Californie!}}",
-                            "province": "Ontario",
-                            "country": "Canada",
+                            "title": "Voyage à {{Portugal!}}",
+                            "province": "Porto",
+                            "country": "Espagne",
                             "institution": "",
-                            "text": "Je viens de déménager en Californie, aux États-Unis, pour explorer de nouvelles opportunités, tant professionnelles que personnelles. J'ai hâte de découvrir ce que cet État dynamique a à offrir et de relever tous les défis et expériences qui accompagnent ce nouveau chapitre de ma vie. Excité pour ce qui m'attend ! Restez à l'écoute pour des mises à jour sur mon parcours et les aventures qui m'attendent dans l'État d'Or !"
+                            "text": "Pendant cinq jours, j'ai eu l'opportunité de profiter de vacances à Porto, au Portugal, une ville qui allie histoire, beauté et authenticité. J'ai flâné dans ses rues pavées, découvert le charme de la vieille ville et contemplé les vues impressionnantes depuis le Pont Dom Luís I. <br><br>J'ai goûté à sa délicieuse gastronomie, avec des plats typiques comme le 'bacalao a la brasa' et la 'francesinha', sans oublier les célèbres 'pastéis de nata'. J'ai également parcouru les rives du Douro, visité des caves à vin traditionnelles et me suis laissé porter par l'atmosphère unique qu'offre cette ville. <br><br>Porto m'a semblé être une destination parfaite pour déconnecter, m'imprégner de culture et revenir avec de nouvelles idées et de l'inspiration. Sans aucun doute, un voyage dont je me souviendrai avec une affection particulière."
                         },
                         "ko": {
-                            "title": "{{캘리포니아로 이사!}}",
-                            "province": "온타리오",
-                            "country": "캐나다",
+                            "title": "{{포르투갈}} 여행!",
+                            "province": "포르투",
+                            "country": "스페인",
                             "institution": "",
-                            "text": "최근에 미국 캘리포니아로 이사하여 새로운 직업적, 개인적 기회를 탐색하고 있습니다. 이 활기찬 주가 제공하는 것들을 발견하고, 이 새로운 장에서 오는 모든 도전과 경험을 받아들이는 것이 기대됩니다. 앞으로의 여정과 황금 주에서 기다리는 모험에 대한 업데이트를 기대해 주세요!"
+                            "text": "5일 동안 저는 역사, 아름다움, 진정성이 조화를 이루는 도시인 포르투갈의 포르투에서 휴가를 즐길 기회가 있었습니다. 저는 조약돌이 깔린 거리를 거닐고, 구시가지의 매력을 발견하고, 루이스 1세 다리에서 숨 막히는 경치를 감상했습니다. <br><br>저는 유명한 '파스텔 드 나타(pastéis de nata)'는 물론, 구운 대구와 '프란세지냐(francesinha)' 같은 전형적인 요리를 포함한 맛있는 현지 음식을 맛보았습니다. 또한 도루 강변을 따라 걸으며, 전통 와이너리를 방문하고 이 도시가 제공하는 독특한 분위기에 흠뻑 빠져들었습니다. <br><br>포르투는 일상에서 벗어나 문화에 흠뻑 젖고 새로운 아이디어와 영감을 얻어 돌아오기에 완벽한 목적지라고 생각했습니다. 의심할 여지 없이, 특별한 애정을 가지고 기억할 여행입니다."
                         }
                     }
                 },
@@ -260,16 +260,16 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "Working on a new {{mobile project!}}",
-                            "province": "California",
-                            "country": "US",
-                            "institution": "",
-                            "text": "I’m excited to share that I’m currently working on a new mobile project! Some features of this project include:",
+                            "title": "Working on web recreation {{La velada 5}}",
+                            "province": "Tomelloso",
+                            "country": "Spain",
+                            "institution": "La velada del año",
+                            "text": "New web recreation! <b>(Project in progress)</b> I have developed a new version of the 'La Velada del Año 5' website, inspired by the visual style and structure of the original event. This recreation aims to capture the essence of the show, integrating sections such as fights, participants, and ticket sales, all with a responsive design and smooth navigation. <br> <br> An ideal project to continue perfecting my skills in web layout and design, combining visual fidelity and interactivity.! Some features of this project include:",
                             "list": [
-                                "Cross-platform compatibility with iOS and Android",
-                                "User-friendly interface with intuitive navigation",
-                                "Integration with popular APIs for enhanced functionality",
-                                "Real-time data synchronization for seamless user experience"
+                                "Design inspired by the event's official site", 
+                                "Responsive layout for all devices", 
+                                "Modern and appealing visual aesthetic, based on the La Velada branding", 
+                                "Use of HTML, CSS, JavaScript, and React"
                             ]
                         },
                         "es": {
@@ -286,29 +286,29 @@
                             ]
                         },
                         "fr": {
-                            "title": "Travail sur un nouveau {{projet mobile!}}",
-                            "province": "Californie",
-                            "country": "États-Unis",
-                            "institution": "",
-                            "text": "Je suis ravi de partager que je travaille actuellement sur un nouveau projet mobile ! Certaines fonctionnalités de ce projet incluent :",
+                            "title": "Travail sur la recréation du site web {{La velada 5}}",
+                            "province": "Tomelloso",
+                            "country": "Espagne",
+                            "institution": "La velada del año",
+                            "text": "Nouvelle recréation de site web! <b>(Projet en cours)</b> J'ai développé une nouvelle version du site web de 'La Velada del Año 5', inspirée du style visuel et de la structure de l'événement original. Cette recréation vise à capturer l'essence du spectacle, en intégrant des sections telles que les combats, les participants et la vente de billets, le tout avec un design responsive et une navigation fluide. <br> <br> Un projet idéal pour continuer à perfectionner mes compétences en mise en page et en conception de sites web, alliant fidélité visuelle et interactivité.! Certaines caractéristiques de ce projet incluent :",
                             "list": [
-                                "Compatibilité multiplateforme avec iOS et Android",
-                                "Interface conviviale avec une navigation intuitive",
-                                "Intégration avec des API populaires pour une fonctionnalité améliorée",
-                                "Synchronisation des données en temps réel pour une expérience utilisateur fluide"
+                                "Design inspiré du site officiel de l'événement", 
+                                "Mise en page responsive pour tous les appareils", 
+                                "Esthétique visuelle moderne et attrayante, basée sur le branding de La Velada", 
+                                "Utilisation de HTML, CSS, JavaScript et React"
                             ]
                         },
                         "ko": {
-                            "title": "{{모바일 프로젝트!}} 작업 중",
-                            "province": "캘리포니아",
-                            "country": "미국",
-                            "institution": "",
-                            "text": "현재 새로운 모바일 프로젝트를 작업 중입니다! 이 프로젝트의 몇 가지 기능은 다음과 같습니다:",
+                            "title": "{{라 벨라다 5}} 웹사이트 재구성 작업 중",
+                            "province": "토멜로소",
+                            "country": "스페인",
+                            "institution": "라 벨라다 델 아뇨",
+                            "text": "새로운 웹사이트 재구성! <b>(진행 중인 프로젝트)</b> 원본 이벤트의 시각적 스타일과 구조에서 영감을 받아 '라 벨라다 델 아뇨 5' 웹사이트의 새로운 버전을 개발했습니다. 이 재구성은 시합, 참가자, 티켓 판매와 같은 섹션을 통합하고 반응형 디자인과 유연한 탐색 기능을 통해 쇼의 본질을 포착하고자 합니다. <br> <br> 시각적 충실도와 상호작용성을 결합하여 웹 레이아웃 및 디자인 기술을 계속해서 완성하는 데 이상적인 프로젝트입니다.! 이 프로젝트의 일부 특징은 다음과 같습니다:",
                             "list": [
-                                "iOS 및 Android와의 크로스 플랫폼 호환성",
-                                "직관적인 탐색을 갖춘 사용자 친화적인 인터페이스",
-                                "기능 향상을 위한 인기 API 통합",
-                                "원활한 사용자 경험을 위한 실시간 데이터 동기화"
+                                "이벤트 공식 사이트에서 영감을 받은 디자인", 
+                                "모든 기기에 대한 반응형 레이아웃", 
+                                "라 벨라다 브랜딩을 기반으로 한 현대적이고 매력적인 시각적 미학", 
+                                "HTML, CSS, JavaScript 및 React 사용"
                             ]
                         }
                     }
@@ -324,11 +324,11 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "Attending the {{Tech Conference 2025!}}",
-                            "province": "Tokyo",
-                            "country": "Japan",
-                            "institution": "Tech Innovators Inc.",
-                            "text": "I’m thrilled to announce that I’ll be attending the [[Tech Conference 2025]] in Tokyo, Japan! This event is a fantastic opportunity to connect with industry leaders, learn about the latest trends in technology, and share insights with fellow tech enthusiasts. I’m looking forward to engaging in discussions, attending workshops, and exploring innovative solutions that are shaping the future of our industry. If you’re attending the conference, let’s connect! I’d love to meet fellow developers and tech lovers. Stay tuned for updates and highlights from the event!"
+                            "title": "Attending the {{Digital Kit Digitalization Forum Conference!}}",
+                            "province": "Ciudad Real",
+                            "country": "Spain",
+                            "institution": "Chamber of Commerce of Ciudad Real.",
+                            "text": "I had the pleasure of attending the Digital Kit Digitalization Forum in Ciudad Real! It was an enriching experience that addressed key topics on digital transformation and artificial intelligence applied to businesses. One of the highlights was the participation of the renowned expert Chema Alonso, along with other professionals from the sector. <br><br> This event allowed me to get a close look at the latest technological trends, connect with other innovation enthusiasts, and continue expanding my vision of the digital future. An inspiring day that undoubtedly adds value to my growth as a developer!"
                         },
                         "es": {
                             "title": "Asistiendo a la {{Conferencia de  Foro Digitalización Kit Digital!}}",
@@ -338,18 +338,18 @@
                             "text": "¡Tuve el placer de asistir al Foro Digitalización Kit Digital en Ciudad Real! Fue una experiencia enriquecedora en la que se abordaron temas clave sobre transformación digital e inteligencia artificial aplicada a empresas. Uno de los momentos más destacados fue la participación del reconocido experto Chema Alonso, junto a otros profesionales del sector. <br><br> Este evento me permitió conocer de cerca las últimas tendencias tecnológicas, conectar con otros entusiastas de la innovación y seguir ampliando mi visión sobre el futuro digital. ¡Una jornada inspiradora que sin duda aporta valor a mi crecimiento como desarrollador!"
                         },
                         "fr": {
-                            "title": "Participation à la {{Conférence Tech 2025!}}",
-                            "province": "Tokyo",
-                            "country": "Japon",
-                            "institution": "Tech Innovators Inc.",
-                            "text": "Je suis ravi d’annoncer que je participerai à la [[Tech Conference 2025]] à Tokyo, au Japon ! Cet événement est une occasion formidable de rencontrer des leaders du secteur, de découvrir les dernières tendances technologiques et d’échanger avec d’autres passionnés de tech. J’ai hâte de participer aux discussions, d’assister aux ateliers et d’explorer des solutions innovantes qui façonnent l’avenir de notre industrie. Si vous assistez à la conférence, n’hésitez pas à me contacter ! Ce serait un plaisir de rencontrer d’autres développeurs et amateurs de technologie. Restez connectés pour des mises à jour et des moments forts de l’événement !"
+                            "title": "Participation à la {{Conférence du Forum de numérisation Kit Digital!}}",
+                            "province": "Ciudad Real",
+                            "country": "Espagne",
+                            "institution": "Chambre de commerce de Ciudad Real.",
+                            "text": "J'ai eu le plaisir d'assister au Forum de numérisation Kit Digital à Ciudad Real ! Ce fut une expérience enrichissante où des sujets clés sur la transformation numérique et l'intelligence artificielle appliquée aux entreprises ont été abordés. L'un des moments forts a été la participation de l'expert renommé Chema Alonso, aux côtés d'autres professionnels du secteur. <br><br> Cet événement m'a permis de découvrir de près les dernières tendances technologiques, de me connecter avec d'autres passionnés d'innovation et de continuer à élargir ma vision de l'avenir numérique. Une journée inspirante qui ajoute sans aucun doute de la valeur à mon développement en tant que développeur !"
                         },
                         "ko": {
-                            "title": "{{기술 컨퍼런스 2025!}} 참석",
-                            "province": "도쿄",
-                            "country": "일본",
-                            "institution": "Tech Innovators Inc.",
-                            "text": "[[2025년 도쿄에서 열리는]] 기술 컨퍼런스에 참석하게 되어 매우 기쁩니다! 이 행사는 업계 리더들과 연결하고 최신 기술 트렌드를 배우며, 다른 기술 애호가들과 통찰력을 공유할 수 있는 환상적인 기회입니다. 토론에 참여하고, 워크숍에 참석하며, 우리 산업의 미래를 형성하는 혁신적인 솔루션을 탐색할 수 있기를 기대합니다. 컨퍼런스에 참석하신다면, 함께 연결해요! 다른 개발자와 기술 애호가들을 만나고 싶습니다. 행사에서의 업데이트와 하이라이트를 기대해 주세요!"
+                            "title": "{{디지털화 키트 디지털화 포럼 컨퍼런스!}} 참석",
+                            "province": "시우다드 레알",
+                            "country": "스페인",
+                            "institution": "시우다드 레알 상공회의소.",
+                            "text": "시우다드 레알에서 열린 디지털화 키트 디지털화 포럼에 참석하게 되어 기뻤습니다! 기업에 적용되는 디지털 전환 및 인공 지능에 대한 핵심 주제를 다루는 유익한 경험이었습니다. 가장 하이라이트 중 하나는 유명 전문가 **체마 알론소(Chema Alonso)**와 업계의 다른 전문가들의 참여였습니다. <br><br> 이 행사를 통해 최신 기술 동향을 면밀히 파악하고, 다른 혁신 애호가들과 소통하며, 디지털 미래에 대한 제 시야를 넓힐 수 있었습니다. 개발자로서의 성장에 의심할 여지 없이 가치를 더하는 영감을 주는 하루였습니다!"
                         }
                     }
                 }
