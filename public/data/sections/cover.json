@@ -114,7 +114,7 @@
                 {
                     "id": 1,
                     "label": "El Mago Joquer",
-                    "link": {"href": "https://linkedin.com", "tooltipString": "open_website"},
+                    "link": {"href": "https://www.elmagojoquer.com/", "tooltipString": "open_website"},
                     "img": "images/pictures/testimonial-person-female-1.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
@@ -140,7 +140,7 @@
                 {
                     "id": 2,
                     "label": "Luis Sanchez",
-                    "link": {"href": "https://github.com", "tooltipString": "open_website"},
+                    "link": {"href": "https://zenbushidokarate.com/", "tooltipString": "open_website"},
                     "img": "images/pictures/testimonial-person-male-1.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
