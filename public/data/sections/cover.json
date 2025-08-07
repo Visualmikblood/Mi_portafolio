@@ -115,7 +115,7 @@
                     "id": 1,
                     "label": "El Mago Joquer",
                     "link": {"href": "https://www.elmagojoquer.com/", "tooltipString": "open_website"},
-                    "img": "images/pictures/testimonial-person-female-1.png",
+                    "img": "images/pictures/joquer.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
                     "locales": {
@@ -141,7 +141,7 @@
                     "id": 2,
                     "label": "Luis Sanchez",
                     "link": {"href": "https://zenbushidokarate.com/", "tooltipString": "open_website"},
-                    "img": "images/pictures/testimonial-person-male-1.png",
+                    "img": "images/pictures/Luis.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
                     "locales": {
@@ -167,7 +167,7 @@
                     "id": 3,
                     "label": "Victor",
                     "link": {"href": "", "tooltipString": ""},
-                    "img": "images/pictures/testimonial-person-female-2.png",
+                    "img": "images/pictures/Victor.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
                     "locales": {
@@ -191,9 +191,9 @@
                 },
                 {
                     "id": 4,
-                    "label": "Chris P. Bacon",
+                    "label": "Cristian Gonzalez",
                     "link": {"href": "https://dribbble.com", "tooltipString": "open_website"},
-                    "img": "images/pictures/testimonial-person-male-2.png",
+                    "img": "images/pictures/Cristian.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
                     "locales": {
