@@ -158,10 +158,10 @@
             "id": 2,
             "component": "ArticleThread",
             "locales": {
-                "en": { "title": "Awards" },
+                "en": { "title": "Collaborations" },
                 "es": { "title": "Colaboraciones" },
-                "fr": { "title": "Récompenses" },
-                "ko": { "title": "수상 내역" }
+                "fr": { "title": "Collaborations" },
+                "ko": { "title": "협업" }
             },
             "settings": {
                 "max_rows_collapse_threshold": 4,
