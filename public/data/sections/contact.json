@@ -108,8 +108,8 @@
                     "id": 3,
                     "faIcon": "fa-brands fa-linkedin",
                     "faIconColors": { "bg": "", "fill": "" },
-                    "label": "@Visualmikblood",
-                    "link": {"href": "https://github.com/Visualmikblood", "tooltipString": "open_website"},
+                    "label": "Miguel Ángel Iglesias De La Flor",
+                    "link": {"href": "https://www.linkedin.com/in/miguel-%C3%A1ngel-iglesias-de-la-flor-a064b4336/", "tooltipString": "open_website"},
                     "locales": {
                         "en": {"title": "LinkedIn"},
                         "ko": {"title": "링크드인"}
