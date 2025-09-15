@@ -1,49 +1,49 @@
 {
     "sections": [
         {
-            "id": "about",
+            "id": "acerca",
             "categoryId": "home",
             "jsonPath": "/data/sections/cover.json",
             "faIcon": "fa-solid fa-address-card"
         },
         {
-            "id": "education",
+            "id": "educacion",
             "categoryId": "background",
             "jsonPath": "/data/sections/education.json",
             "faIcon": "fa-solid fa-graduation-cap"
         },
         {
-            "id": "skills",
+            "id": "habilidades",
             "categoryId": "showcase",
             "jsonPath": "/data/sections/skills.json",
             "faIcon": "fa-solid fa-tools"
         },
         {
-            "id": "experience",
+            "id": "experiencia",
             "categoryId": "background",
             "jsonPath": "/data/sections/experience.json",
             "faIcon": "fa-solid fa-briefcase"
         },
         {
-            "id": "portfolio",
+            "id": "portafolio",
             "categoryId": "showcase",
             "jsonPath": "/data/sections/portfolio.json",
             "faIcon": "fa-solid fa-folder-open"
         },
         {
-            "id": "achievements",
+            "id": "logros",
             "categoryId": "showcase",
             "jsonPath": "/data/sections/achievements.json",
             "faIcon": "fa-solid fa-award"
         },
         {
-            "id": "updates",
+            "id": "actualizaciones",
             "categoryId": "more",
             "jsonPath": "/data/sections/updates.json",
             "faIcon": "fa-solid fa-rss"
         },
         {
-            "id": "contact",
+            "id": "contacto",
             "categoryId": "more",
             "jsonPath": "/data/sections/contact.json",
             "faIcon": "fa-solid fa-pen-to-square"
