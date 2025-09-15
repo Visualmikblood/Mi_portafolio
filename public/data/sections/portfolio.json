@@ -551,6 +551,46 @@
                             "tags": ["비디오 게임", "아케이드", "상호작용"]
                         }
                     }
+                },
+                {
+                    "id": 13,
+                    "categoryId": "category_apps",
+                    "img": "images/pictures/iconos_mios_para_portfolio/feliz_cumple.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "preview": {
+                        "links": [
+                            {"href": "https://github.com/Visualmikblood/feliz_cumple_juego_version_1_terminada", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}, {"href": "https://feliz-cumple-juego-version-1-termin.vercel.app/", "tooltipString": "see_the_web", "faIcon": "", "src": "images/svg/vercel.svg"}
+                            
+                        ],
+                        "screenshots": [
+                            "images/pictures/iconos_seccion_portfolio_enlaces_de_los_proyectos/juego_feliz_cumple/cumple.png"
+                        ],
+                        "screenshotsAspectRatio": "16:9",
+                        "youtubeVideo": "https://www.youtube.com/watch?v=TfgBHC5gvTI"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Happy birthday game",
+                            "text": "This game is a unique challenge where you can view your friends' messages; some will give you points and others will take them away. You have to rate each message and see if your luck leads you to victory.",
+                            "tags": ["React", "Happy Birthday", "Game"]
+                        },
+                        "es": {
+                            "title": "Feliz cumple juego",
+                            "text": "Este juego es un desafío único donde puedes ver los mensajes de tus amigos, algunos te darán puntos y otros te los quitarán. Tienes que calificar cada mensaje y ver si tu suerte te lleva a la victoria.",
+                            "tags": ["React", "feliz cumpleaños", "juego"]
+                        },
+                        "fr": {
+                            "title": "Jeu joyeux anniversaire",
+                            "text": "Ce jeu est un défi unique où vous pouvez consulter les messages de vos amis ; certains vous rapporteront des points, d'autres vous en retireront. Vous devrez évaluer chaque message et voir si la chance vous mènera à la victoire.",
+                            "tags": ["React", "Joyeux anniversaire", "jeu"]
+                        },
+                        "ko": {
+                            "title": "생일 축하 게임",
+                            "text": "이 게임은 친구들의 메시지를 볼 수 있는 특별한 챌린지 게임입니다. 어떤 친구는 점수를 주고, 어떤 친구는 점수를 뺏어갑니다. 각 메시지를 평가하고, 당신의 행운이 승리로 이어지는지 확인해 보세요.",
+                            "tags": ["리액트", "생일 축하해요", "게임"]
+                        }
+                    }
                 }
             ]
         }
