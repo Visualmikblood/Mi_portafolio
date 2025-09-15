@@ -591,6 +591,47 @@
                             "tags": ["리액트", "생일 축하해요", "게임"]
                         }
                     }
+                },
+                {
+                    "id": 14,
+                    "categoryId": "category_utilities",
+                    "img": "images/pictures/iconos_mios_para_portfolio/wordpress.jpg",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "preview": {
+                        "links": [
+                            {"href": "https://prueba-chicago.free.nf/?i=1", "tooltipString": "see_the_web", "faIcon": "", "src": "images/svg/vercel.svg"}
+
+                        ],
+                        "screenshots": [
+                            "images/pictures/iconos_seccion_portfolio_enlaces_de_los_proyectos/chicago/chicago.png"
+                            
+                        ],
+                        "screenshotsAspectRatio": "16:9",
+                        "youtubeVideo": "https://www.youtube.com/watch?v=Pov5z996UTY"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Chicago Pub (Wordpress)",
+                            "text": "Come to Chicago Pub in Alicante to relive the best music of the 80s and 90s. A unique atmosphere with pop and rock hits that will transport you to an unforgettable era.",
+                            "tags": ["wordpress", "disco", "web"]
+                        },
+                        "es": {
+                            "title": "Pub Chicago (Wordpress)",
+                            "text": "Ven a Chicago Pub en Alicante para revivir la mejor música de los 80 y 90. Un ambiente único con éxitos del pop y rock que te transportarán a una época inolvidable.",
+                            "tags": ["wordpress", "discoteca", "web"]
+                        },
+                        "fr": {
+                            "title": "Pub Chicago (Wordpress)",
+                            "text": "Venez au Chicago Pub à Alicante pour revivre la meilleure musique des années 80 et 90. Une ambiance unique avec des tubes pop et rock qui vous transporteront dans une époque inoubliable.",
+                            "tags": ["wordpress", "disco", "web"]
+                        },
+                        "ko": {
+                            "title": "Pub Chicago (Wordpress)",
+                            "text": "알리칸테의 시카고 펍에서 80년대와 90년대 최고의 음악을 다시 느껴보세요. 팝과 록 히트곡이 어우러진 독특한 분위기는 잊을 수 없는 추억으로 여러분을 초대합니다.",
+                            "tags": ["wordpress", "디스코", "편물"]
+                        }
+                    }
                 }
             ]
         }
