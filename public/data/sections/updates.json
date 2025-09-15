@@ -252,9 +252,12 @@
                     "date": {"year": 2025, "month": 7},
                     "preview": {
                         "links": [
-                            {"href": "https://la-velada-5.vercel.app/", "tooltipString": "open_website", "faIcon": "fa-brands fa-medium"}
+                            {"href": "https://la-velada-5.vercel.app/", "tooltipString": "open_website", "faIcon": "fa-brands fa-medium"},
+                            {"href": "https://github.com/Visualmikblood/la_velada_5", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}
                         ],
-                        "screenshots": [],
+                        "screenshots": [
+                            "images/pictures/iconos_seccion_portfolio_enlaces_de_los_proyectos/velada_5/velada_5.png"
+                        ],
                         "screenshotsAspectRatio": "",
                         "youtubeVideo": ""
                     },
