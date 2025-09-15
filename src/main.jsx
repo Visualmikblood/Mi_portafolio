@@ -1,4 +1,5 @@
 import "/src/styles/app.scss"
+import '@fortawesome/fontawesome-free/css/all.min.css'
 import {StrictMode, useEffect, useState} from 'react'
 import {createRoot} from 'react-dom/client'
 import {useApi} from "/src/hooks/api.js"

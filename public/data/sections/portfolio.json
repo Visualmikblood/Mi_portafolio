@@ -72,18 +72,15 @@
                     "faIconColors": {"bg": "", "fill": ""},
                     "preview": {
                         "links": [
-                            {"href": "https://github.com", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"},
-                            {"href": "https://npm.com", "tooltipString": "see_on_npm", "faIcon": "fa-brands fa-npm"}
+                            {"href": "https://www.elmagojoquer.com/", "tooltipString": "see_the_web", "faIcon": "", "src": "images/svg/vercel.svg"}
+
                         ],
                         "screenshots": [
-                            "images/pictures/screenshot-demo-landscape-1.png",
-                            "images/pictures/screenshot-demo-landscape-2.png",
-                            "images/pictures/screenshot-demo-landscape-3.png",
-                            "images/pictures/screenshot-demo-landscape-4.png",
-                            "images/pictures/screenshot-demo-landscape-5.png"
+                            "images/pictures/iconos_seccion_portfolio_enlaces_de_los_proyectos/wordpress_joquer/joquer_1.png"
+                            
                         ],
                         "screenshotsAspectRatio": "16:9",
-                        "youtubeVideo": "https://www.youtube.com/watch?v=PnV8p1xm7-o"
+                        "youtubeVideo": "https://www.youtube.com/watch?v=Pov5z996UTY"
                     },
                     "locales": {
                         "en": {
@@ -114,11 +111,11 @@
                     "faIconColors": {"bg": "", "fill": ""},
                     "preview": {
                         "links": [
-                            {"href": "https://github.com/Visualmikblood/lista_de_tareas_actualizada.git", "tooltipString": "see_on_app_store", "faIcon": "fa-brands fa-github"},
-                            {"href": "https://google.com", "tooltipString": "see_on_google_play", "faIcon": "fa-brands fa-google-play"}
+                            {"href": "https://github.com/Visualmikblood/lista_de_tareas_actualizada.git", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}, {"href": "https://lista-de-tareas-actualizada.vercel.app/", "tooltipString": "see_the_web", "faIcon": "", "src": "images/svg/vercel.svg"}
+                            
                         ],
                         "screenshots": [
-                            "images/pictures/portfolio_img_mias/lista_de_tareas.png"
+                            "images/pictures/iconos_seccion_portfolio_enlaces_de_los_proyectos/lista_de_tareas/tareas_1.png"
                         ],
                         "screenshotsAspectRatio": "16:9",
                         "youtubeVideo": "https://www.youtube.com/watch?v=TfgBHC5gvTI"
@@ -151,18 +148,13 @@
                     "faIconColors": {"bg": "", "fill": ""},
                     "preview": {
                         "links": [
-                            {"href": "https://apple.com", "tooltipString": "see_on_app_store", "faIcon": "fa-brands fa-apple"},
-                            {"href": "https://google.com", "tooltipString": "see_on_google_play", "faIcon": "fa-brands fa-google-play"}
+                           {"href": "https://github.com/Visualmikblood/chat-react-vite", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}, {"href": "https://lista-de-tareas-actualizada.vercel.app/", "tooltipString": "see_the_web", "faIcon": "", "src": "images/svg/vercel.svg"}
                         ],
                         "screenshots": [
-                            "images/pictures/screenshot-demo-landscape-1.png",
-                            "images/pictures/screenshot-demo-landscape-2.png",
-                            "images/pictures/screenshot-demo-landscape-3.png",
-                            "images/pictures/screenshot-demo-landscape-4.png",
-                            "images/pictures/screenshot-demo-landscape-5.png"
+                            "images/pictures/iconos_seccion_portfolio_enlaces_de_los_proyectos/chat-reac_con_vite/chat.png"
                         ],
                         "screenshotsAspectRatio": "16:9",
-                        "youtubeVideo": ""
+                        "youtubeVideo": "https://www.youtube.com/watch?v=TfgBHC5gvTI"
                     },
                     "locales": {
                         "en": {
@@ -195,12 +187,12 @@
                     "faIconColors": {"bg": "", "fill": ""},
                     "preview": {
                         "links": [
-                            {"href": "https://cash.com", "tooltipString": "open_website", "faIcon": "fa-brands fa-github"}
+                            {"href": "https://github.com/Visualmikblood/ruben_guo_pgina", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}, {"href": "https://ruben-guo-pgina.vercel.app/", "tooltipString": "see_the_web", "faIcon": "", "src": "images/svg/vercel.svg"}
                         ],
                         "screenshots": [
-
+                            "images/pictures/iconos_seccion_portfolio_enlaces_de_los_proyectos/ruben_guo/ruben_guo.png"
                         ],
-                        "screenshotsAspectRatio": "",
+                        "screenshotsAspectRatio": "16:9",
                         "youtubeVideo": "https://www.youtube.com/watch?v=MQe_MoJ7Iww"
                     },
                     "locales": {
@@ -234,14 +226,14 @@
                     "faIconColors": {"bg": "", "fill": ""},
                     "preview": {
                         "links": [
-                            {"href": "https://github.com/Visualmikblood/blog_actualizado.git", "tooltipString": "see_on_app_store", "faIcon": "fa-brands fa-github"},
-                            {"href": "https://google.com", "tooltipString": "see_on_google_play", "faIcon": "fa-brands fa-google-play"}
+                            {"href": "https://github.com/Visualmikblood/blog_actualizado", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"},
+                            {"href": "https://blog-actualizado.vercel.app/", "tooltipString": "see_the_web", "faIcon": "", "src": "images/svg/vercel.svg"}
                         ],
                         "screenshots": [
-
+                            "images/pictures/iconos_seccion_portfolio_enlaces_de_los_proyectos/blog/blog.png"
                         ],
                         "screenshotsAspectRatio": "",
-                        "youtubeVideo": ""
+                        "youtubeVideo": "https://www.youtube.com/watch?v=MQe_MoJ7Iww"
                     },
                     "locales": {
                         "en": {
@@ -274,13 +266,13 @@
                     "faIconColors": {"bg": "", "fill": ""},
                     "preview": {
                         "links": [
-                            {"href": "https://google.com", "tooltipString": "open_website", "faIcon": "fa-brands fa-github"}
+                            {"href": "https://github.com/Visualmikblood/open_bootcamp_responsive", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}, {"href": "https://open-bootcamp-responsive.vercel.app/", "tooltipString": "see_the_web", "faIcon": "", "src": "images/svg/vercel.svg"}
                         ],
                         "screenshots": [
-
+                            "images/pictures/iconos_seccion_portfolio_enlaces_de_los_proyectos/open_bootcamp/open_bootcamp.png"
                         ],
-                        "screenshotsAspectRatio": "",
-                        "youtubeVideo": ""
+                        "screenshotsAspectRatio": "16:9",
+                        "youtubeVideo": "https://www.youtube.com/watch?v=MQe_MoJ7Iww"
                     },
                     "locales": {
                         "en": {
@@ -313,13 +305,13 @@
                     "faIconColors": {"bg": "#7671AA", "fill": "#EEEEEE"},
                     "preview": {
                         "links": [
-                            {"href": "https://google.com", "tooltipString": "open_website", "faIcon": "fa-brands fa-github"}
+                            {"href": "https://github.com/Visualmikblood/La-velada", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}, {"href": "https://la-velada-bn87-con-fuentes-de-letra.vercel.app/", "tooltipString": "see_the_web", "faIcon": "", "src": "images/svg/vercel.svg"}
                         ],
                         "screenshots": [
-
+                            "images/pictures/iconos_seccion_portfolio_enlaces_de_los_proyectos/velada_4/velada_4.png"
                         ],
-                        "screenshotsAspectRatio": "",
-                        "youtubeVideo": ""
+                        "screenshotsAspectRatio": "16:9",
+                        "youtubeVideo": "https://www.youtube.com/watch?v=MQe_MoJ7Iww"
                     },
                     "locales": {
                         "en": {
@@ -349,20 +341,20 @@
 
 
                 {
-                    "id": 7,
+                    "id": 8,
                     "categoryId": "category_web",
                     "img": "images/pictures/iconos_mios_para_portfolio/dj.png",
                     "faIcon": "fa-solid fa-guitar",
                     "faIconColors": {"bg": "#7671AA", "fill": "#EEEEEE"},
                     "preview": {
                         "links": [
-                            {"href": "https://google.com", "tooltipString": "open_website", "faIcon": "fa-brands fa-github"}
+                            {"href": "https://github.com/Visualmikblood/like-mike", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}, {"href": "https://like-mike.vercel.app/", "tooltipString": "see_the_web", "faIcon": "", "src": "images/svg/vercel.svg"}
                         ],
                         "screenshots": [
-
+                            "images/pictures/iconos_seccion_portfolio_enlaces_de_los_proyectos/like_mike/like_mike.png"
                         ],
-                        "screenshotsAspectRatio": "",
-                        "youtubeVideo": ""
+                        "screenshotsAspectRatio": "16:9",
+                        "youtubeVideo": "https://www.youtube.com/watch?v=MQe_MoJ7Iww"
                     },
                     "locales": {
                         "en": {
@@ -394,20 +386,20 @@
 
 
                 {
-                    "id": 7,
+                    "id": 9,
                     "categoryId": "category_web",
                     "img": "images/pictures/iconos_mios_para_portfolio/barcelona.png",
                     "faIcon": "fa-solid fa-guitar",
                     "faIconColors": {"bg": "#7671AA", "fill": "#EEEEEE"},
                     "preview": {
                         "links": [
-                            {"href": "https://github.com/Visualmikblood/fcbarcelona.git", "tooltipString": "open_website", "faIcon": "fa-brands fa-github"}
+                            {"href": "https://github.com/Visualmikblood/fcbarcelona", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}, {"href": "https://fcbarcelona-two.vercel.app/", "tooltipString": "see_the_web", "faIcon": "", "src": "images/svg/vercel.svg"}
                         ],
                         "screenshots": [
-
+                            "images/pictures/iconos_seccion_portfolio_enlaces_de_los_proyectos/barcelona/barcelona.png"
                         ],
-                        "screenshotsAspectRatio": "",
-                        "youtubeVideo": ""
+                        "screenshotsAspectRatio": "16:9",
+                        "youtubeVideo": "https://www.youtube.com/watch?v=MQe_MoJ7Iww"
                     },
                     "locales": {
                         "en": {
@@ -440,19 +432,19 @@
 
 
                 {
-                    "id": 8,
+                    "id": 10,
                     "categoryId": "category_utilities",
                     "img": "images/pictures/iconos_mios_para_portfolio/wordpress.jpg",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
                     "preview": {
                         "links": [
-
+                            {"href": "https://zenbushidokarate.com/", "tooltipString": "see_the_web", "faIcon": "", "src": "images/svg/vercel.svg"}
                         ],
                         "screenshots": [
-
+                            "images/pictures/iconos_seccion_portfolio_enlaces_de_los_proyectos/karate/karate.png"
                         ],
-                        "screenshotsAspectRatio": "",
+                        "screenshotsAspectRatio": "16:9",
                         "youtubeVideo": "https://www.youtube.com/watch?v=bf3Lz33nHy0"
                     },
                     "locales": {
@@ -479,22 +471,20 @@
                     }
                 },
                 {
-                    "id": 9,
+                    "id": 11,
                     "categoryId": "category_apps",
                     "img": "images/pictures/iconos_mios_para_portfolio/juego-de-lucha.png",
                     "faIcon": "fa-solid fa-truck-fast",
                     "faIconColors": {"bg": "#007396", "fill": "#EEEEEE"},
                     "preview": {
                         "links": [
-                            {"href": "https://apple.com", "tooltipString": "see_on_app_store", "faIcon": "fa-brands fa-apple"},
-                            {"href": "https://google.com", "tooltipString": "see_on_google_play", "faIcon": "fa-brands fa-google-play"},
-                            {"href": "https://windows.com", "tooltipString": "see_on_windows_store", "faIcon": "fa-brands fa-windows"}
+                            {"href": "https://github.com/Visualmikblood/juego_srteet_fighter", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}, {"href": "https://juego-srteet-fighter.vercel.app/", "tooltipString": "see_the_web", "faIcon": "", "src": "images/svg/vercel.svg"}
                         ],
                         "screenshots": [
-
+                            "images/pictures/iconos_seccion_portfolio_enlaces_de_los_proyectos/street_fighter/peleas.png"
                         ],
-                        "screenshotsAspectRatio": "",
-                        "youtubeVideo": ""
+                        "screenshotsAspectRatio": "16:9",
+                        "youtubeVideo": "https://www.youtube.com/watch?v=bf3Lz33nHy0"
                     },
                     "locales": {
                         "en": {
@@ -524,22 +514,20 @@
 
 
                 {
-                    "id": 9,
+                    "id": 12,
                     "categoryId": "category_apps",
                     "img": "images/pictures/iconos_mios_para_portfolio/juego-de-lucha.png",
                     "faIcon": "fa-solid fa-truck-fast",
                     "faIconColors": {"bg": "#007396", "fill": "#EEEEEE"},
                     "preview": {
                         "links": [
-                            {"href": "https://apple.com", "tooltipString": "see_on_app_store", "faIcon": "fa-brands fa-apple"},
-                            {"href": "https://google.com", "tooltipString": "see_on_google_play", "faIcon": "fa-brands fa-google-play"},
-                            {"href": "https://windows.com", "tooltipString": "see_on_windows_store", "faIcon": "fa-brands fa-windows"}
+                            {"href": "https://github.com/Visualmikblood/juego__bolita", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}, {"href": "https://juego-bolita.vercel.app/", "tooltipString": "see_the_web", "faIcon": "", "src": "images/svg/vercel.svg"}
                         ],
                         "screenshots": [
-
+                            "images/pictures/iconos_seccion_portfolio_enlaces_de_los_proyectos/bolita/bolita.png"
                         ],
-                        "screenshotsAspectRatio": "",
-                        "youtubeVideo": ""
+                        "screenshotsAspectRatio": "16:9",
+                        "youtubeVideo": "https://www.youtube.com/watch?v=bf3Lz33nHy0"
                     },
                     "locales": {
                         "en": {

@@ -3,6 +3,9 @@ import React, {useEffect, useState} from 'react'
 import Link from "/src/components/generic/Link.jsx"
 import {useLanguage} from "/src/providers/LanguageProvider.jsx"
 import CircularButton from "/src/components/buttons/CircularButton.jsx"
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+// No existe faVercel en free-brands-svg-icons, usaremos un icono genérico o personalizado
+import { faGithub } from '@fortawesome/free-brands-svg-icons'
 import {useUtils} from "/src/hooks/utils.js"
 
 /**
@@ -18,6 +21,8 @@ function ArticleItemPreviewMenu({ itemWrapper, className = "", spaceBetween }) {
     const hasScreenshotsOrVideo = itemWrapper.preview?.hasScreenshotsOrYoutubeVideo
     const hasLinks = itemWrapper.preview?.hasLinks
     const links = itemWrapper.preview?.links
+
+    console.log("ArticleItemPreviewMenu links:", links);
 
     const linksListClass = utils.string.if(
         hasScreenshotsOrVideo && spaceBetween,
@@ -121,7 +126,19 @@ function ItemPreviewMenuGalleryButton({ itemWrapper }) {
 function ItemPreviewMenuCustomLinkButton({ link }) {
     const href = link.href
     const tooltip = link.tooltip
-    const faIcon = link.faIcon
+    const faIcon = link.src ? null : link.faIcon
+    const src = link.src
+
+    // Render FontAwesome icon (usando faGithub como fallback) si faIcon es 'fa-brands fa-vercel'
+    if (faIcon === 'fa-brands fa-vercel') {
+        return (
+            <Link href={href}
+                  className={`article-item-preview-menu-link`}
+                  tooltip={tooltip}>
+                <img src="/images/svg/vercel.svg" alt="Vercel" className="article-item-preview-menu-svg-icon vercel-icon" />
+            </Link>
+        )
+    }
 
     return (
         <Link href={href}
@@ -131,7 +148,8 @@ function ItemPreviewMenuCustomLinkButton({ link }) {
                             size={CircularButton.Sizes.EXTRA_EXTRA_LARGE}
                             className={`article-item-preview-menu-circular-button`}
                             tooltip={tooltip}
-                            faIcon={faIcon}/>
+                            faIcon={faIcon}
+                            src={src}/>
         </Link>
     )
 }

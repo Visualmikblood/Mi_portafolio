@@ -1,0 +1,11 @@
+.logo {
+  color: black; /* color inicial */
+  transition: color 0.3s ease;
+  cursor: pointer;
+}
+
+.logo:hover {
+  color: white; /* cambia todo a blanco al hacer hover */
+  background: black; /* opcional: fondo negro para que se note */
+  border-radius: 4px;
+}

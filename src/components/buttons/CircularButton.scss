@@ -7,11 +7,30 @@ button.circular-button {
     justify-content: center;
     border-radius: 100%;
     outline: none;
+    color: white; /* color blanco por defecto */
 
     i {
         user-select: none;
         pointer-events: none;
         transition: 0.1s scale ease-in-out;
+    }
+
+    img.circular-button-img {
+        max-width: 60%;
+        max-height: 60%;
+        object-fit: contain;
+        pointer-events: none;
+        user-select: none;
+        transition: fill 0.3s ease, color 0.3s ease;
+    }
+
+    &:hover {
+        color: white; /* mantener color blanco para texto */
+    }
+
+    &:hover svg path {
+        fill: black !important; /* cambiar fill del path a negro en hover */
+        transition: fill 0.3s ease;
     }
 }
 

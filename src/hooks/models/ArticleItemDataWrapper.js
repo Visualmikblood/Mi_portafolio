@@ -102,6 +102,7 @@ export default class ArticleItemDataWrapper {
         return {
             href: rawLink.href,
             faIcon: rawLink.faIcon || undefined,
+            src: rawLink.src || undefined,
             tooltip: tooltipString ?
                 language.getString(tooltipString) :
                 null
