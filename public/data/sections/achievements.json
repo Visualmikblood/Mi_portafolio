@@ -174,7 +174,7 @@
                     "date": {"year": 2024, "month": 9},
                     "preview": {
                         "links": [
-                            {"href": "https://mag.wcoomd.org/uploads/2018/05/blank.pdf", "tooltipString": "read", "faIcon": "fa-solid fa-file-pdf"}
+                            {"href": "https://github.com/", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}
                         ],
                         "screenshots": [],
                         "screenshotsAspectRatio": "",
@@ -217,8 +217,8 @@
                     "date": {"year": 2025, "month": 5},
                     "preview": {
                         "links": [
-                            {"href": "https://github.com/ryanbalieiro/react-portfolio-template", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"},
-                            {"href": "https://www.linuxfoundation.org/", "tooltipString": "open_website", "faIcon": "fa-brands fa-linux"}
+                            {"href": "https://github.com/", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}
+                            
                         ],
                         "screenshots": [],
                         "screenshotsAspectRatio": "",
