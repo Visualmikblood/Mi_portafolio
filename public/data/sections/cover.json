@@ -166,7 +166,7 @@
                 {
                     "id": 3,
                     "label": "Victor",
-                    "link": {"href": "", "tooltipString": ""},
+                    "link": {"href": "https://prueba-chicago.free.nf/?i=1", "tooltipString": ""},
                     "img": "images/pictures/Victor.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
