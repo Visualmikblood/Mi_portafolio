@@ -384,6 +384,33 @@
                     }
                 }
             ]
+        },
+
+        {
+            "id": 5,
+            "component": "ArticleInlineList",
+            "locales": {
+                "en": {"title": "Download Resume"},
+                "es": {"title": "Descargar Currículum"},
+                "fr": {"title": "Télécharger le CV"},
+                "ko": {"title": "이력서 다운로드"}
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "display_as_list_if_width_is_lower_than": 380
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "label": "Descarga mi curriculum",
+                    "link": {
+                        "href": "/curriculum.pdf",
+                        "tooltipString": "download_resume"
+                    },
+                    "faIcon": "fa-solid fa-file-pdf"
+                }
+            ]
         }
     ]
 }

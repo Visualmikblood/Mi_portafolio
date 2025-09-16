@@ -129,16 +129,7 @@ function ItemPreviewMenuCustomLinkButton({ link }) {
     const faIcon = link.src ? null : link.faIcon
     const src = link.src
 
-    // Render FontAwesome icon (usando faGithub como fallback) si faIcon es 'fa-brands fa-vercel'
-    if (faIcon === 'fa-brands fa-vercel') {
-        return (
-            <Link href={href}
-                  className={`article-item-preview-menu-link`}
-                  tooltip={tooltip}>
-                <img src="/images/svg/vercel.svg" alt="Vercel" className="article-item-preview-menu-svg-icon vercel-icon" />
-            </Link>
-        )
-    }
+
 
     return (
         <Link href={href}

@@ -94,6 +94,8 @@ function Link({ id = null, className = "", href, children, tooltip = null, metad
         )
     }
 
+    const isDownload = href && href.endsWith('.pdf')
+
     return (
         <a href={href}
            id={id}
@@ -102,6 +104,7 @@ function Link({ id = null, className = "", href, children, tooltip = null, metad
            onMouseEnter={_onMouseEnter}
            onMouseLeave={_onMouseLeave}
            data-tooltip={tooltip}
+           download={isDownload ? true : undefined}
            draggable={false}>
             {children}
         </a>

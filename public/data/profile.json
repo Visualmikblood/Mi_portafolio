@@ -2,7 +2,7 @@
     "name": "Miguel Iglesias",
 
     "profilePictureUrl": "images/pictures/instagram_miguel_photoshop.jpg",
-    "resumePdfUrl": "",
+    "resumePdfUrl": "/curriculum.pdf",
 
     "statusCircleVisible": true,
     "statusCircleVariant": "available",
