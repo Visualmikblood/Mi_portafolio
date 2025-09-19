@@ -72,7 +72,7 @@
                     "faIconColors": {"bg": "", "fill": ""},
                     "preview": {
                         "links": [
-                            {"href": "https://www.elmagojoquer.com/", "tooltipString": "see_the_web", "faIcon": "", "src": "images/svg/vercel.svg"}
+                            {"href": "https://www.elmagojoquer.com/", "tooltipString": "see_the_web", "faIcon": "fa-solid fa-link", "src": ""}
 
                         ],
                         "screenshots": [
@@ -111,7 +111,7 @@
                     "faIconColors": {"bg": "", "fill": ""},
                     "preview": {
                         "links": [
-                            {"href": "https://github.com/Visualmikblood/lista_de_tareas_actualizada.git", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}, {"href": "https://lista-de-tareas-actualizada.vercel.app/", "tooltipString": "see_the_web", "faIcon": "", "src": "images/svg/vercel.svg"}
+                            {"href": "https://github.com/Visualmikblood/lista_de_tareas_actualizada.git", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}, {"href": "https://lista-de-tareas-actualizada.vercel.app/", "tooltipString": "see_the_web", "faIcon": "fa-solid fa-link", "src": ""}
                             
                         ],
                         "screenshots": [
@@ -148,7 +148,7 @@
                     "faIconColors": {"bg": "", "fill": ""},
                     "preview": {
                         "links": [
-                           {"href": "https://github.com/Visualmikblood/chat-react-vite", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}, {"href": "https://chat-react-vite-nine.vercel.app/", "tooltipString": "see_the_web", "faIcon": "", "src": "images/svg/vercel.svg"}
+                           {"href": "https://github.com/Visualmikblood/chat-react-vite", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}, {"href": "https://chat-react-vite-nine.vercel.app/", "tooltipString": "see_the_web", "faIcon": "fa-solid fa-link", "src": ""}
                         ],
                         "screenshots": [
                             "images/pictures/iconos_seccion_portfolio_enlaces_de_los_proyectos/chat-reac_con_vite/chat.png"
@@ -187,7 +187,7 @@
                     "faIconColors": {"bg": "", "fill": ""},
                     "preview": {
                         "links": [
-                            {"href": "https://github.com/Visualmikblood/ruben_guo_pgina", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}, {"href": "https://ruben-guo-pgina.vercel.app/", "tooltipString": "see_the_web", "faIcon": "", "src": "images/svg/vercel.svg"}
+                            {"href": "https://github.com/Visualmikblood/ruben_guo_pgina", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}, {"href": "https://ruben-guo-pgina.vercel.app/", "tooltipString": "see_the_web", "faIcon": "fa-solid fa-link", "src": ""}
                         ],
                         "screenshots": [
                             "images/pictures/iconos_seccion_portfolio_enlaces_de_los_proyectos/ruben_guo/ruben_guo.png"
@@ -227,7 +227,7 @@
                     "preview": {
                         "links": [
                             {"href": "https://github.com/Visualmikblood/blog_actualizado", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"},
-                            {"href": "https://blog-actualizado.vercel.app/", "tooltipString": "see_the_web", "faIcon": "", "src": "images/svg/vercel.svg"}
+                            {"href": "https://blog-actualizado.vercel.app/", "tooltipString": "see_the_web", "faIcon": "fa-solid fa-link", "src": ""}
                         ],
                         "screenshots": [
                             "images/pictures/iconos_seccion_portfolio_enlaces_de_los_proyectos/blog/blog.png"
@@ -266,7 +266,7 @@
                     "faIconColors": {"bg": "", "fill": ""},
                     "preview": {
                         "links": [
-                            {"href": "https://github.com/Visualmikblood/open_bootcamp_responsive", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}, {"href": "https://open-bootcamp-responsive.vercel.app/", "tooltipString": "see_the_web", "faIcon": "", "src": "images/svg/vercel.svg"}
+                            {"href": "https://github.com/Visualmikblood/open_bootcamp_responsive", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}, {"href": "https://open-bootcamp-responsive.vercel.app/", "tooltipString": "see_the_web", "faIcon": "fa-solid fa-link", "src": ""}
                         ],
                         "screenshots": [
                             "images/pictures/iconos_seccion_portfolio_enlaces_de_los_proyectos/open_bootcamp/open_bootcamp.png"
@@ -305,7 +305,7 @@
                     "faIconColors": {"bg": "#7671AA", "fill": "#EEEEEE"},
                     "preview": {
                         "links": [
-                            {"href": "https://github.com/Visualmikblood/La-velada", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}, {"href": "https://la-velada-bn87-con-fuentes-de-letra.vercel.app/", "tooltipString": "see_the_web", "faIcon": "", "src": "images/svg/vercel.svg"}
+                            {"href": "https://github.com/Visualmikblood/La-velada", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}, {"href": "https://la-velada-bn87-con-fuentes-de-letra.vercel.app/", "tooltipString": "see_the_web", "faIcon": "fa-solid fa-link", "src": ""}
                         ],
                         "screenshots": [
                             "images/pictures/iconos_seccion_portfolio_enlaces_de_los_proyectos/velada_4/velada_4.png"
@@ -348,7 +348,7 @@
                     "faIconColors": {"bg": "#7671AA", "fill": "#EEEEEE"},
                     "preview": {
                         "links": [
-                            {"href": "https://github.com/Visualmikblood/like-mike", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}, {"href": "https://like-mike.vercel.app/", "tooltipString": "see_the_web", "faIcon": "", "src": "images/svg/vercel.svg"}
+                            {"href": "https://github.com/Visualmikblood/like-mike", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}, {"href": "https://like-mike.vercel.app/", "tooltipString": "see_the_web", "faIcon": "fa-solid fa-link", "src": ""}
                         ],
                         "screenshots": [
                             "images/pictures/iconos_seccion_portfolio_enlaces_de_los_proyectos/like_mike/like_mike.png"
@@ -393,7 +393,7 @@
                     "faIconColors": {"bg": "#7671AA", "fill": "#EEEEEE"},
                     "preview": {
                         "links": [
-                            {"href": "https://github.com/Visualmikblood/fcbarcelona", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}, {"href": "https://fcbarcelona-two.vercel.app/", "tooltipString": "see_the_web", "faIcon": "", "src": "images/svg/vercel.svg"}
+                            {"href": "https://github.com/Visualmikblood/fcbarcelona", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}, {"href": "https://fcbarcelona-two.vercel.app/", "tooltipString": "see_the_web", "faIcon": "fa-solid fa-link", "src": ""}
                         ],
                         "screenshots": [
                             "images/pictures/iconos_seccion_portfolio_enlaces_de_los_proyectos/barcelona/barcelona.png"
@@ -439,7 +439,7 @@
                     "faIconColors": {"bg": "", "fill": ""},
                     "preview": {
                         "links": [
-                            {"href": "https://zenbushidokarate.com/", "tooltipString": "see_the_web", "faIcon": "", "src": "images/svg/vercel.svg"}
+                            {"href": "https://zenbushidokarate.com/", "tooltipString": "see_the_web", "faIcon": "fa-solid fa-link", "src": ""}
                         ],
                         "screenshots": [
                             "images/pictures/iconos_seccion_portfolio_enlaces_de_los_proyectos/karate/karate.png"
@@ -478,7 +478,7 @@
                     "faIconColors": {"bg": "#007396", "fill": "#EEEEEE"},
                     "preview": {
                         "links": [
-                            {"href": "https://github.com/Visualmikblood/juego_srteet_fighter", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}, {"href": "https://juego-srteet-fighter.vercel.app/", "tooltipString": "see_the_web", "faIcon": "", "src": "images/svg/vercel.svg"}
+                            {"href": "https://github.com/Visualmikblood/juego_srteet_fighter", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}, {"href": "https://juego-srteet-fighter.vercel.app/", "tooltipString": "see_the_web", "faIcon": "fa-solid fa-link", "src": ""}
                         ],
                         "screenshots": [
                             "images/pictures/iconos_seccion_portfolio_enlaces_de_los_proyectos/street_fighter/peleas.png"
@@ -521,7 +521,7 @@
                     "faIconColors": {"bg": "#007396", "fill": "#EEEEEE"},
                     "preview": {
                         "links": [
-                            {"href": "https://github.com/Visualmikblood/juego__bolita", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}, {"href": "https://juego-bolita.vercel.app/", "tooltipString": "see_the_web", "faIcon": "", "src": "images/svg/vercel.svg"}
+                            {"href": "https://github.com/Visualmikblood/juego__bolita", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}, {"href": "https://juego-bolita.vercel.app/", "tooltipString": "see_the_web", "faIcon": "fa-solid fa-link", "src": ""}
                         ],
                         "screenshots": [
                             "images/pictures/iconos_seccion_portfolio_enlaces_de_los_proyectos/bolita/bolita.png"
@@ -560,7 +560,7 @@
                     "faIconColors": {"bg": "", "fill": ""},
                     "preview": {
                         "links": [
-                            {"href": "https://github.com/Visualmikblood/feliz_cumple_juego_version_1_terminada", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}, {"href": "https://feliz-cumple-juego-version-1-termin.vercel.app/", "tooltipString": "see_the_web", "faIcon": "", "src": "images/svg/vercel.svg"}
+                            {"href": "https://github.com/Visualmikblood/feliz_cumple_juego_version_1_terminada", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}, {"href": "https://feliz-cumple-juego-version-1-termin.vercel.app/", "tooltipString": "see_the_web", "faIcon": "fa-solid fa-link", "src": ""}
                             
                         ],
                         "screenshots": [
@@ -600,7 +600,7 @@
                     "faIconColors": {"bg": "", "fill": ""},
                     "preview": {
                         "links": [
-                            {"href": "https://prueba-chicago.free.nf/?i=1", "tooltipString": "see_the_web", "faIcon": "", "src": "images/svg/vercel.svg"}
+                            {"href": "https://prueba-chicago.free.nf/?i=1", "tooltipString": "see_the_web", "faIcon": "fa-solid fa-link", "src": ""}
 
                         ],
                         "screenshots": [
