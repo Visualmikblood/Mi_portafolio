@@ -46,7 +46,7 @@
                 {
                     "id": 1,
                     "img": "",
-                    "faIcon": "fa-solid fa-life-ring",
+                    "faIcon": "fa-solid fa-file-invoice-dollar",
                     "faIconColors": {"bg": "#326CE5", "fill": "#EEE"},
                     "date": {"year": 2025, "month": 6},
                     "link": {"href": "https://www.linuxfoundation.org/", "tooltipString": "see_certification"},
@@ -73,7 +73,7 @@
                 {
                     "id": 2,
                     "img": "",
-                    "faIcon": "fa-brands fa-aws",
+                    "faIcon": "fa-solid fa-palette",
                     "faIconColors": {"bg": "#FFD700", "fill": "#111"},
                     "date": {"year": 2017, "month": 6},
                     "link": {"href": "https://www.aws.com/", "tooltipString": "see_certification"},
@@ -100,7 +100,7 @@
                 {
                     "id": 3,
                     "img": "",
-                    "faIcon": "fa-brands fa-java",
+                    "faIcon": "fa-solid fa-globe",
                     "faIconColors": {"bg": "#007396", "fill": "#EEE"},
                     "date": {"year": 2021, "month": 5},
                     "link": {"href": "https://www.oracle.com/", "tooltipString": "see_certification"},
@@ -127,7 +127,7 @@
                 {
                     "id": 4,
                     "img": "",
-                    "faIcon": "fa-solid fa-database",
+                    "faIcon": "fa-solid fa-code",
                     "faIconColors": {"bg": "#47A248", "fill": "#EEE"},
                     "date": {"year": 2023, "month": 3},
                     "link": {"href": "https://www.mongodb.com/", "tooltipString": "see_certification"},
